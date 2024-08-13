@@ -1,0 +1,76 @@
+<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta name=robots content="index, follow"><meta name=description content="Demo site for PolyRhythmic theme"><meta name=author content="Wonyoung Jang"><title>Tokens | PolyRhythmic Demo
+</title><link crossorigin=anonymous href=/assets/css/0_tokens.min.54edd297d397734a643131e90b70f83677e619d52e9778fcad666c17a63dfa29.css integrity="sha256-VO3Sl9OXc0pkMTHpC3D4NnfmGdUul3j8rWZsF6Y9+ik=" rel="preload stylesheet" as=style><link crossorigin=anonymous href=/assets/css/1_base.min.0b2640dd13201686d0b9839cd63f552631ea6ac17e91e46a29826426e50163ea.css integrity="sha256-CyZA3RMgFobQuYOc1j9VJjHqasF+keRqKYJkJuUBY+o=" rel="preload stylesheet" as=style><link crossorigin=anonymous href=/assets/css/2_material.min.5b2cef615430f1a80a9e0bbb991ed872fb94a69f13c253c3aa1ac2279635e988.css integrity="sha256-WyzvYVQw8agKngu7mR7YcvuUpp8TwlPDqhrCJ5Y16Yg=" rel="preload stylesheet" as=style><link crossorigin=anonymous href=/assets/css/3_custom.min.1170977b57df8127b9f1384c1104c2bac5a2884e9ceb3befd8cf1e5704d78084.css integrity="sha256-EXCXe1ffgSe58ThMEQTCusWiiE6c6zvv2M8eVwTXgIQ=" rel="preload stylesheet" as=style><link crossorigin=anonymous href=/assets/css/5_helpers.min.348b1736fc2e6fa9eaa54aa6bb1d1004dc56d402a95d6924ca701ef58464e703.css integrity="sha256-NIsXNvwub6nqpUqmux0QBNxW1AKpXWkkynAe9YRk5wM=" rel="preload stylesheet" as=style><script defer crossorigin=anonymous src=/js/theme.min.1ad7df278ff0c1080c027b9488304d2b29278e344e8588c461b54e591f6af5bd.js integrity="sha256-GtffJ4/wwQgMAnuUiDBNKyknjjROhYjEYbVOWR9q9b0="></script><link rel=icon href=https://example.org/sitelogo.svg><link rel=alternate type=application/rss+xml href=https://example.org/resources/tokens/index.xml><link rel=alternate hreflang=en href=https://example.org/resources/tokens/><noscript><style>#theme-toggle,#top-link{display:none}</style></noscript><meta property="og:url" content="https://example.org/resources/tokens/"><meta property="og:site_name" content="PolyRhythmic Demo"><meta property="og:title" content="Tokens"><meta property="og:description" content="Demo site for PolyRhythmic theme"><meta property="og:locale" content="en_US"><meta property="og:type" content="website"><meta itemprop=name content="Tokens"><meta itemprop=description content="Demo site for PolyRhythmic theme"><meta itemprop=datePublished content="2024-01-01T00:00:00+00:00"><meta itemprop=dateModified content="2024-08-13T17:33:33-04:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Tokens"><meta name=twitter:description content="Demo site for PolyRhythmic theme"></head><body id=top><header id=header role=banner><nav class="component app-bar top center small" aria-label="Top App Bar"><section class=start><a class="component button common" id=site-headline href=https://example.org/ accesskey=h title="Go to home (h)"><img src=https://example.org/sitelogo.svg alt="Site logo">
+<span class=site-id-title>PolyRhythmic Demo</span></a></section><section class=end><button class="component button icon" id=random-button accesskey=r title="Random page (r)" onclick="return navigateToRandomPage(),!1">
+<i class=icon>ifl</i>
+</button>
+<script defer>const pages=["/actions/","/archives/","/communication/","/resources/components/","/containment/","/elevations/","/feed-layout/","/fixed-and-flexible-layout/","/resources/layouts/","/list-detail-layout/","/motion/","/navigation/","/resources/","/search/","/selections/","/shapes/","/single-pane-layout/","/sitemap/","/split-pane-layout/","/states/","/supporting-pane-layout/","/text-inputs/","/typography/"];function shuffleArray(e){for(let t=e.length-1;t>0;t--){const n=Math.floor(Math.random()*(t+1));[e[t],e[n]]=[e[n],e[t]]}}function navigateToRandomPage(){shuffleArray(pages),window.location.href=pages[0]}document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("random-button");e.addEventListener("click",navigateToRandomPage)})</script><button class="component button icon toggle" accesskey=t title="Toggle dark mode (t)" id=theme-toggle-container>
+<input id=theme-toggle type=checkbox>
+<label class="component button icon" for=theme-toggle><i class=icon id=moon>dark_mode
+</i><i class=icon id=sun>light_mode
+</i></label></button>
+<button class=theme-controls>
+<input type=checkbox id=theme-controls accesskey=c title="Theme controls (c)">
+<label for=theme-controls class="component button icon"><i class=icon>palette</i></label><div class="component sheet side modal controls"><span class="theme-controls-title headline-medium">Theme controls</span>
+<span class="theme-controls-title title-medium">Colors</span><div id=color-selector-container><label>Hue</label><div class=slider><input type=range id=hue-selector min=0 max=360 value=268>
+<span class=tooltip id=hue-tooltip></span></div><div id=theme-hues></div><label>Chroma</label><div class=slider><input type=range id=chroma-selector min=0 max=100 value=58>
+<span class=tooltip id=chroma-tooltip></span></div><div id=theme-chromas></div><label>Lightness</label><div id=theme-lightness></div><label>Tertiary temperature</label><div class="set segmented-buttons"><label class="component button segmented start"><input type=radio name=temperature id=tertiary-selector-cool value=cool>
+<i class=icon>check</i>
+Cooler
+</label><label class="component button segmented end"><input type=radio name=temperature id=tertiary-selector-warm value=warm checked>
+<i class=icon>check</i>
+Warmer</label></div><section class=color-temp-reference><div id=primary></div><div id=tertiary></div></section><section class=color-temp-reference><div id=primary-container></div><div id=tertiary-container></div></section><label>Contrast</label><div class="set segmented-buttons"><label class="component button segmented start"><input type=radio name=contrast id=contrast-selector-regular value=regular checked>
+<i class=icon>check</i>
+<i class=icon>brightness_low</i>
+</label><label class="component button segmented"><input type=radio name=contrast id=contrast-selector-medium value=medium>
+<i class=icon>check</i>
+<i class=icon>brightness_medium</i>
+</label><label class="component button segmented end"><input type=radio name=contrast id=contrast-selector-high value=high>
+<i class=icon>check</i>
+<i class=icon>brightness_high</i></label></div></div><span class="theme-controls-title title-medium">Images</span><div id=dim-images-selector-container><label>Dim dark mode image brightness</label>
+<label class="component switch both"><input type=checkbox id=dim-image-selector checked>
+<span></span></label></div><span class="theme-controls-title title-medium">Shapes</span><div id=shape-selector-container><label>Shape corner roundness</label><div class=slider><input type=range id=shape-selector min=0.0 max=4.0 value=1.7 step=0.05>
+<span class=tooltip id=shape-tooltip></span></div></div><span class="theme-controls-title title-medium">Typography</span><div id=typography-selector-container><div id=max-width-selector><label>Content text width</label><div class="set segmented-buttons"><label class="component button segmented start"><input type=radio name=width id=width-selector-60 value=60>
+<i class=icon>check</i>
+60ch
+</label><label class="component button segmented"><input type=radio name=width id=width-selector-120 value=120>
+<i class=icon>check</i>
+120ch
+</label><label class="component button segmented end"><input type=radio name=width id=width-selector-max value=max checked>
+<i class=icon>check</i>
+Max</label></div></div><label>Font Size</label><div class=slider><input type=range id=font-size-selector min=8 max=24 value=14 step=1>
+<span class=tooltip id=font-size-tooltip>14px</span></div><label>Line Height</label><div class=slider><input type=range id=line-height-selector min=1 max=2.5 value=1.25 step=0.05>
+<span class=tooltip id=line-height-tooltip>1.5</span></div><div id=typography-selector><fieldset class=typography-fieldset><legend><label>Brand font family</label></legend><label class="component radio"><input type=radio name=brand-font id=font-brand-raleway value=Raleway checked>
+<span>Raleway</span>
+</label><label class="component radio"><input type=radio name=brand-font id=font-brand-rubik value=Rubik>
+<span>Rubik</span>
+</label><label class="component radio"><input type=radio name=brand-font id=font-brand-bookman value=Bookman>
+<span>Bookman</span>
+</label><label class="component radio"><input type=radio name=brand-font id=font-brand-century-schoolbook value="Century Schoolbook">
+<span>Century Schoolbook</span></label><div class="example title-small">Example: Brand text</div></fieldset><fieldset class=typography-fieldset><legend><label>Plain font family</label></legend><label class="component radio"><input type=radio name=plain-font id=font-plain-rubik value=Rubik checked>
+<span>Rubik</span>
+</label><label class="component radio"><input type=radio name=plain-font id=font-plain-raleway value=Raleway>
+<span>Raleway</span>
+</label></label><label class="component radio"><input type=radio name=plain-font id=font-plain-helvetica value=Helvetica>
+<span>Helvetica</span>
+</label><label class="component radio"><input type=radio name=plain-font id=font-plain-verdana value=Verdana>
+<span>Verdana</span></label><div class="example body-large">Example: Plain text</div></fieldset><fieldset class=typography-fieldset><legend><label>Code font family</label></legend><label class="component radio"><input type=radio name=code-font id=font-sometype-mono value="SomeType Mono" checked>
+<span>SomeType Mono</span>
+</label><label class="component radio"><input type=radio name=code-font id=font-courier-new value="Courier New">
+<span>Courier New</span>
+</label><label class="component radio"><input type=radio name=code-font id=font-andale-mono value="Andale Mono">
+<span>Andale Mono</span>
+</label><label class="component radio"><input type=radio name=code-font id=font-consolas value=Consolas>
+<span>Consolas</span></label><div class="example code-typeface">Example: Code text</div></fieldset></div></div></div></button></section></nav><div class="set tabs title-medium"><a class="component tab primary" href=/archives/><i class=icon>archive</i><div class=label>Archives</div></a><a class="component tab primary" href=/sitemap/><i class=icon>map</i><div class=label>Sitemap</div></a><a class="component tab primary" href=/search/><i class=icon>search</i><div class=label>Search</div></a><a aria-current=page class="component tab primary active" href=/resources/tokens/><i class=icon>token</i><div class=label>Tokens</div></a><a class="component tab primary" href=/resources/layouts/><i class=icon>view_quilt</i><div class=label>Layouts</div></a><a class="component tab primary" href=/resources/components/><i class=icon>settings</i><div class=label>Components</div></a></div></header><main role=main><div class="layout content-wrapper"><section class="layout page-header"><h1 class=title>Tokens</h1></section><article class="layout panes canon-feed"><section class="layout pane"><a class="component card elevated" aria-label="post link to Elevations" href=https://example.org/elevations/><div class=card-image><img src=/assets/tokens-elevations_1722025249860_0.webp alt="Cover image for Elevations"></div><div class=card-content><div class=card-meta><p title='2024-01-01 00:00:00 +0000 UTC'>January 1, 2024&nbsp;·&nbsp;1 min read</div><span class=card-title>Elevations</span><p class=card-description>Elevation tokens</p></div></a><a class="component card elevated" aria-label="post link to Motion" href=https://example.org/motion/><div class=card-image><img src=/assets/tokens-motions_1722025271714_0.webp alt="Cover image for Motion"></div><div class=card-content><div class=card-meta><p title='2024-01-01 00:00:00 +0000 UTC'>January 1, 2024&nbsp;·&nbsp;1 min read</div><span class=card-title>Motion</span><p class=card-description>Motion tokens</p></div></a><a class="component card elevated" aria-label="post link to Shapes" href=https://example.org/shapes/><div class=card-image><img src=/assets/tokens-shapes_1722025292659_0.webp alt="Cover image for Shapes"></div><div class=card-content><div class=card-meta><p title='2024-01-01 00:00:00 +0000 UTC'>January 1, 2024&nbsp;·&nbsp;1 min read</div><span class=card-title>Shapes</span><p class=card-description>Shape tokens</p></div></a><a class="component card elevated" aria-label="post link to States" href=https://example.org/states/><div class=card-image><img src=/assets/states_1721309641312_0.webp alt="Cover image for States"></div><div class=card-content><div class=card-meta><p title='2024-01-01 00:00:00 +0000 UTC'>January 1, 2024&nbsp;·&nbsp;1 min read</div><span class=card-title>States</span><p class=card-description>State tokens</p></div></a><a class="component card elevated" aria-label="post link to Typography" href=https://example.org/typography/><div class=card-image><img src=/assets/tokens-typography_1722025324948_0.webp alt="Cover image for Typography"></div><div class=card-content><div class=card-meta><p title='2024-01-01 00:00:00 +0000 UTC'>January 1, 2024&nbsp;·&nbsp;1 min read</div><span class=card-title>Typography</span><p class=card-description>Typefaces and typescales</p></div></a></section></article></div><footer id=footer role=contentinfo><section class=footer-links><div class=footer-links-list><span class="title-medium on-surface-variant">Quick links
+</span><a href=/archives>Archives
+</a><a href=/index.xml>RSS
+</a><a href=/search>Search
+</a><a href=/sitemap>Sitemap</a></div><div class=footer-links-list><span class="title-medium on-surface-variant">Resources
+</span><a href=/resources>Resources
+</a><a href=/resources/components>Components
+</a><a href=/resources/layouts>Layouts
+</a><a href=/resources/Tokens>Tokens</a></div><div class=footer-links-list><span class="title-medium on-surface-variant">Some other places to find me
+</span><a href=mailto:contact@wonyoungjang.org target=_blank rel="external noopener noreferrer me">Email
+</a><a href=https://www.figma.com/@wonyoung_jang target=_blank rel="external noopener noreferrer me">Figma
+</a><a href=https://github.com/wonyoung-jang target=_blank rel="external noopener noreferrer me">GitHub
+</a><a href=https://ko-fi.com/wonyoung_jang target=_blank rel="external noopener noreferrer me">Ko-fi</a></div></section><section class=copyright><a id=copyright-button href=https://example.org/>© 2024 PolyRhythmic Demo</a></section><a class="component button fab primary-container" id=top-link href=#top aria-label="go to top" accesskey=g title="Go to top (g)"><i class=icon>vertical_align_top</i>
+</a><script defer>const mybutton=document.getElementById("top-link"),scrollWrapper=document.querySelector("html");function handleScroll(){scrollWrapper.scrollTop>1500?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}window.addEventListener("scroll",handleScroll),mybutton.addEventListener("click",function(){scrollWrapper.scrollTo({top:0,behavior:"smooth"})})</script></footer></main></body></html>
