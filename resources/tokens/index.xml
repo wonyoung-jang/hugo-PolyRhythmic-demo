@@ -6,13 +6,20 @@ en-US</language><managingEditor>
 contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>
 contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>
 &lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>
-Tue, 13 Aug 2024 19:08:14 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/exampleSite/resources/tokens/index.xml" rel="self" type="application/rss+xml"/><item><title>
-Elevations</title><link>
-https://wonyoungjang.org/exampleSite/elevations/</link><pubDate>
+Wed, 14 Aug 2024 12:11:32 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/exampleSite/resources/tokens/index.xml" rel="self" type="application/rss+xml"/><item><title>
+Color</title><link>
+https://wonyoungjang.org/exampleSite/color/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/elevations/</guid><description>
+https://wonyoungjang.org/exampleSite/color/</guid><description>
+See: Material Design 3 - Colors</description></item><item><title>
+Elevation</title><link>
+https://wonyoungjang.org/exampleSite/elevation/</link><pubDate>
+Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/exampleSite/elevation/</guid><description>
 See: Material Design 3 - Elevation</description></item><item><title>
 Motion</title><link>
 https://wonyoungjang.org/exampleSite/motion/</link><pubDate>
@@ -21,19 +28,19 @@ contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/motion/</guid><description>
 See: Material Design 3 - Motion</description></item><item><title>
-Shapes</title><link>
-https://wonyoungjang.org/exampleSite/shapes/</link><pubDate>
+Shape</title><link>
+https://wonyoungjang.org/exampleSite/shape/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/shapes/</guid><description>
+https://wonyoungjang.org/exampleSite/shape/</guid><description>
 See: Material Design 3 - Shapes</description></item><item><title>
-States</title><link>
-https://wonyoungjang.org/exampleSite/states/</link><pubDate>
+State</title><link>
+https://wonyoungjang.org/exampleSite/state/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/states/</guid><description>
+https://wonyoungjang.org/exampleSite/state/</guid><description>
 See: Material Design 3 - States</description></item><item><title>
 Typography</title><link>
 https://wonyoungjang.org/exampleSite/typography/</link><pubDate>

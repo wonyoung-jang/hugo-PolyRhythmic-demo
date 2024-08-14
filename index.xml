@@ -5,13 +5,13 @@ en-US</language><managingEditor>
 contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>
 contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>
 &lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>
-Tue, 13 Aug 2024 19:08:14 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/exampleSite/index.xml" rel="self" type="application/rss+xml"/><item><title>
-Actions</title><link>
-https://wonyoungjang.org/exampleSite/actions/</link><pubDate>
+Wed, 14 Aug 2024 14:25:04 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/exampleSite/index.xml" rel="self" type="application/rss+xml"/><item><title>
+Action</title><link>
+https://wonyoungjang.org/exampleSite/action/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/actions/</guid><description>
+https://wonyoungjang.org/exampleSite/action/</guid><description>
 See: Material Design 3 - Components</description></item><item><title>
 Archives</title><link>
 https://wonyoungjang.org/exampleSite/archives/</link><pubDate>
@@ -19,6 +19,13 @@ Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/archives/</guid><description/></item><item><title>
+Color</title><link>
+https://wonyoungjang.org/exampleSite/color/</link><pubDate>
+Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/exampleSite/color/</guid><description>
+See: Material Design 3 - Colors</description></item><item><title>
 Communication</title><link>
 https://wonyoungjang.org/exampleSite/communication/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
@@ -33,12 +40,12 @@ contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/containment/</guid><description>
 See: Material Design 3 - Components</description></item><item><title>
-Elevations</title><link>
-https://wonyoungjang.org/exampleSite/elevations/</link><pubDate>
+Elevation</title><link>
+https://wonyoungjang.org/exampleSite/elevation/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/elevations/</guid><description>
+https://wonyoungjang.org/exampleSite/elevation/</guid><description>
 See: Material Design 3 - Elevation</description></item><item><title>
 Feed layout</title><link>
 https://wonyoungjang.org/exampleSite/feed-layout/</link><pubDate>
@@ -75,25 +82,31 @@ contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/navigation/</guid><description>
 See: Material Design 3 - Components</description></item><item><title>
+Playground</title><link>
+https://wonyoungjang.org/exampleSite/playground/</link><pubDate>
+Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/exampleSite/playground/</guid><description/></item><item><title>
 Search</title><link>
 https://wonyoungjang.org/exampleSite/search/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/search/</guid><description/></item><item><title>
-Selections</title><link>
-https://wonyoungjang.org/exampleSite/selections/</link><pubDate>
+Selection</title><link>
+https://wonyoungjang.org/exampleSite/selection/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/selections/</guid><description>
+https://wonyoungjang.org/exampleSite/selection/</guid><description>
 See: Material Design 3 - Components</description></item><item><title>
-Shapes</title><link>
-https://wonyoungjang.org/exampleSite/shapes/</link><pubDate>
+Shape</title><link>
+https://wonyoungjang.org/exampleSite/shape/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/shapes/</guid><description>
+https://wonyoungjang.org/exampleSite/shape/</guid><description>
 See: Material Design 3 - Shapes</description></item><item><title>
 Single pane layout</title><link>
 https://wonyoungjang.org/exampleSite/single-pane-layout/</link><pubDate>
@@ -115,12 +128,12 @@ contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/split-pane-layout/</guid><description>
 See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>
-States</title><link>
-https://wonyoungjang.org/exampleSite/states/</link><pubDate>
+State</title><link>
+https://wonyoungjang.org/exampleSite/state/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/states/</guid><description>
+https://wonyoungjang.org/exampleSite/state/</guid><description>
 See: Material Design 3 - States</description></item><item><title>
 Supporting pane layout</title><link>
 https://wonyoungjang.org/exampleSite/supporting-pane-layout/</link><pubDate>
@@ -129,12 +142,12 @@ contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
 https://wonyoungjang.org/exampleSite/supporting-pane-layout/</guid><description>
 See: Material Design 3 - Canonical layouts - Supporting pane</description></item><item><title>
-Text inputs</title><link>
-https://wonyoungjang.org/exampleSite/text-inputs/</link><pubDate>
+Text input</title><link>
+https://wonyoungjang.org/exampleSite/text-input/</link><pubDate>
 Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
 contact@wonyoungjang.org
 (Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/exampleSite/text-inputs/</guid><description>
+https://wonyoungjang.org/exampleSite/text-input/</guid><description>
 See: Material Design 3 - Components</description></item><item><title>
 Typography</title><link>
 https://wonyoungjang.org/exampleSite/typography/</link><pubDate>
