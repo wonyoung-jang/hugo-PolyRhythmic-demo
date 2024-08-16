@@ -7,7 +7,31 @@ contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>
 &lt;!--Creative Commons License-->
 This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 &lt;!--/Creative Commons License--></copyright><lastBuildDate>
-Fri, 16 Aug 2024 16:52:01 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/index.xml" rel="self" type="application/rss+xml"/><item><title>
+Fri, 16 Aug 2024 19:07:01 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/index.xml" rel="self" type="application/rss+xml"/><item><title>
+Default Content Archetype</title><link>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/default-content-archetype/</link><pubDate>
+Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/default-content-archetype/</guid><description>
+Inside content folder directly.
+Blank default content archetype</description></item><item><title>
+Branch → leaf</title><link>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/branch/leaf/</link><pubDate>
+Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/branch/leaf/</guid><description>
+Leaf-bundle inside a branch-bundle
+Blank leaf bundle content archetype</description></item><item><title>
+Leaf page</title><link>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/leaf/leaf-page/</link><pubDate>
+Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>
+contact@wonyoungjang.org
+(Wonyoung Jang)</author><guid>
+https://wonyoungjang.org/hugo-PolyRhythmic-demo/leaf/leaf-page/</guid><description>
+Leaf-bundle
+Blank leaf bundle content archetype</description></item><item><title>
 PolyRhythmic Shortcodes</title><link>
 https://wonyoungjang.org/hugo-PolyRhythmic-demo/polyrhythmic-shortcodes/</link><pubDate>
 Fri, 16 Aug 2024 00:00:00 +0000</pubDate><author>

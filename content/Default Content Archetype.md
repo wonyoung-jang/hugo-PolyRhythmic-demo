@@ -1,6 +1,5 @@
 ---
 date: '2024-08-16T18:53:54-04:00'
-draft: true
 title: 'Default Content Archetype'
 ---
 
