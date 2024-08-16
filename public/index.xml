@@ -54,6 +54,34 @@
       <atom:link href="http://192.168.40.181:1313/index.xml" rel="self" type="application/rss+xml" />
       <item>
         <title>
+          PolyRhythmic Shortcodes
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/polyrhythmic-shortcodes/
+        </link>
+
+        <pubDate>
+          Fri, 16 Aug 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/polyrhythmic-shortcodes/
+        </guid>
+
+        <description>
+          &#xD;Mark (text highlight)&#xD;link&#xD;h2&#xD;This is a mark&#xD;Admonitions&#xD;link&#xD;h2&#xD;See: Logseq documentation - Advanced commands&#xD;warningThis is a warning&#xD;{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&#xA;errorThis is a sign of caution&#xD;starsThis is important&#xD;keepThis is pinned&#xD;lyricsThis is a verse&#xD;prompt_suggestionThis is an export&#xD;prompt_suggestionThis is a latex export&#xD;prompt_suggestionThis is a ascii export&#xD;query_statsThis is a query&#xD;sticky_note_2This is a note&#xD;lightbulbThis is a tip&#xD;descriptionThis is an example&#xD;commentThis is a comment&#xD;format_quoteThis is a quote&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
           Action
         </title>
 

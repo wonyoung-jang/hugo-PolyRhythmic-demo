@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://192.168.40.181:1313/</loc>
+    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://192.168.40.181:1313/polyrhythmic-shortcodes/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://192.168.40.181:1313/components/action/</loc>
     <lastmod>2024-08-16T15:00:44-04:00</lastmod>
     <changefreq>daily</changefreq>
@@ -68,11 +78,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/playground/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.40.181:1313/</loc>
     <lastmod>2024-08-16T15:00:44-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
