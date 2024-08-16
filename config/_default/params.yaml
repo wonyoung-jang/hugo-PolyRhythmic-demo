@@ -1,9 +1,27 @@
+author:
+  name: Wonyoung Jang
+  email: contact@wonyoungjang.org
+
+assets:
+  favicon: sitelogo.svg
+
 dateFormat: January 2, 2006
 debug: false
 description: "Demo site for PolyRhythmic theme"
 
-assets:
-  favicon: sitelogo.svg
+fuseOpts:
+  isCaseSensitive: false
+  includeScore: true
+  includeMatches: true
+  minMatchCharLength: 1
+  shouldSort: true
+  findAllMatches: false
+  keys: ["title", "section", "permalink", "description", "summary", "content"]
+  location: 0
+  threshold: 0.6
+  distance: 100
+  ignoreLocation: false
+  limit: 12
 
 home:
   title: PolyRhythmic Demo
@@ -35,26 +53,6 @@ home:
       - name: Playground
         url: /hugo-PolyRhythmic-demo/playground
         icon: markdown
-      - name: Source for this demo on GitHub
+      - name: View the source for this website
         url: https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo
         icon: frame_source
-
-author:
-  name: Wonyoung Jang
-  email: contact@wonyoungjang.org
-
-fuseOpts:
-  isCaseSensitive: false
-  includeScore: true
-  includeMatches: true
-  minMatchCharLength: 1
-  shouldSort: true
-  findAllMatches: false
-  keys: ["title", "permalink", "description", "summary", "content"]
-
-  location: 0
-  threshold: 0.6
-  distance: 100
-  ignoreLocation: false
-
-  limit: 12
