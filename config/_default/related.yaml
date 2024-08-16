@@ -1,0 +1,17 @@
+threshold: 10
+includeNewer: true
+
+indices:
+  - name: title
+    weight: 40
+    type: basic
+  - name: type
+    weight: 30
+    type: basic
+  - name: description
+    weight: 20
+    type: basic
+  - name: date
+    weight: 10
+    type: basic
+    pattern: "2006"

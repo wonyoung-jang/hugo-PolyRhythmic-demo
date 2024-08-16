@@ -1,0 +1,135 @@
+# See: https://gohugo.io/getting-started/configuration/
+
+####################
+# Site information #
+####################
+baseURL: https://wonyoungjang.org/hugo-PolyRhythmic-demo
+copyright: |
+  <!--Creative Commons License-->
+    This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+  <!--/Creative Commons License-->
+languageCode: en-US
+theme: ["PolyRhythmic"]
+title: PolyRhythmic
+# timeZone: (string)
+
+###############
+# Directories #
+###############
+# archetypeDir: archetypes
+# assetDir: assets
+# contentDir: content
+# dataDir: data
+# publishDir: public
+# themesDir: themes
+
+######################
+# Content management #
+######################
+# defaultContentLanguage: en
+# defaultContentLanguageInSubdir: false
+# disableKinds: (string slice)
+# enableEmoji: false
+enableGitInfo: true
+# enableMissingTranslationPlaceholders: false
+# hasCJKLanguage: false
+# newContentEditor: (string)
+# noChmod: false
+# noTimes: false
+# pluralizeListTitles: true
+# summaryLength: 70
+# capitalizeListTitles: true
+# titleCaseStyle: ap
+
+##################
+# Build settings #
+##################
+# (build.yaml)
+# buildDrafts: false
+# buildExpired: false
+# buildFuture: false
+cleanDestinationDir: true
+# disableHugoGeneratorInject: false
+
+##################
+# URL management #
+##################
+# canonifyURLs: false
+# disableAliases: false
+# disablePathToLower: false
+# relativeURLs: false
+# removePathAccents: false
+# uglyURLs: false
+# refLinksErrorLevel: ERROR
+# refLinksNotFoundURL: (string)
+
+######################
+# Markup & rendering #
+######################
+# (markup.yaml)
+# (mediatypes.yaml)
+# (minify.yaml)
+# (outputFormats.yaml)
+# (imaging.yaml)
+# (outputs.yaml)
+# (segments.yaml)
+# renderSegments: (string slice)
+
+######################
+# Menus & navigation #
+######################
+# (menus.yaml)
+# (pagination.yaml)
+# (permalinks.yaml)
+
+#####################
+# Language settings #
+#####################
+# (languages.yaml)
+# (disableLanguages.yaml)
+
+########################
+# Deployment & hosting #
+########################
+# (deployment.yaml)
+# (sitemap.yaml)
+enableRobotsTXT: true
+
+###########
+# Caching #
+###########
+# (caches.yaml)
+# (httpcache.yaml)
+
+############
+# Security #
+############
+# (security.yaml)
+# (privacy.yaml)
+
+########################
+# Server & development #
+########################
+# (server.yaml)
+# disableLiveReload: false
+# timeout: 30s
+# watch: false
+
+#######################
+# Content enhancement #
+#######################
+# (cascade.yaml)
+# (frontmatter.yaml)
+# (related.yaml)
+# (taxonomies.yaml)
+
+################
+# Integrations #
+################
+# (module.yaml)
+# (services.yaml)
+
+###########
+# Params  #
+###########
+# (params.yaml)

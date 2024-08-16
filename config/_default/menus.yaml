@@ -1,0 +1,122 @@
+main:
+  - name: Tokens
+    pageRef: /tokens
+    pre: token
+    weight: 10
+  - name: Color
+    pageRef: /tokens/color
+    pre: palette
+    parent: Tokens
+  - name: Elevation
+    pageRef: /tokens/elevation
+    pre: shadow
+    parent: Tokens
+  - name: Motion
+    pageRef: /tokens/motion
+    pre: gesture
+    parent: Tokens
+  - name: Shape
+    pageRef: /tokens/shape
+    pre: rounded_corner
+    parent: Tokens
+  - name: State
+    pageRef: /tokens/state
+    pre: layers
+    parent: Tokens
+  - name: Typography
+    pageRef: /tokens/typography
+    pre: custom_typography
+    parent: Tokens
+
+  - name: Layouts
+    pageRef: /layouts
+    pre: view_quilt
+    weight: 20
+  - name: Feed
+    pageRef: /layouts/feed-layout
+    pre: view_quilt
+    parent: Layouts
+  - name: Fixed and flexible
+    pageRef: /layouts/fixed-and-flexible-layout
+    pre: thumbnail_bar
+    parent: Layouts
+  - name: List-detail
+    pageRef: /layouts/list-detail-layout
+    pre: vertical_split
+    parent: Layouts
+  - name: Single pane
+    pageRef: /layouts/single-pane-layout
+    pre: fullscreen_portrait
+    parent: Layouts
+  - name: Split-pane
+    pageRef: /layouts/split-pane-layout
+    pre: view_column_2
+    parent: Layouts
+  - name: Supporting pane
+    pageRef: /layouts/supporting-pane-layout
+    pre: transition_slide
+    parent: Layouts
+
+  - identifier: Components
+    name: Components
+    pageRef: /components
+    pre: settings
+    weight: 30
+  - name: Action
+    pageRef: /components/action
+    pre: touch_app
+    parent: Components
+  - name: Communication
+    pageRef: /components/communication
+    pre: forum
+    parent: Components
+  - name: Containment
+    pageRef: /components/containment
+    pre: resize
+    parent: Components
+  - name: Navigation
+    pageRef: /components/navigation
+    pre: explore
+    parent: Components
+  - name: Selection
+    pageRef: /components/selection
+    pre: checklist
+    parent: Components
+  - name: Text input
+    pageRef: /components/text-input
+    pre: variable_add
+    parent: Components
+
+  - name: Playground
+    pageRef: /playground
+    pre: markdown
+    weight: 50
+  - name: Search
+    pageRef: /search
+    pre: search
+    weight: 60
+quick links:
+  - name: Archives
+    pageRef: /archives
+  - name: RSS
+    pageRef: /index.xml
+  - name: Search
+    pageRef: /search
+  - name: Sitemap
+    pageRef: /sitemap
+material:
+  - name: Components
+    pageRef: /components
+  - name: Layouts
+    pageRef: /layouts
+  - name: Tokens
+    pageRef: /tokens
+see me elsewhere:
+  - name: Email
+    url: mailto:contact@wonyoungjang.org
+  - name: Figma
+    url: https://www.figma.com/@wonyoung_jang
+  - name: GitHub
+    url: https://github.com/wonyoung-jang
+  - name: Ko-fi
+    url: https://ko-fi.com/wonyoung_jang

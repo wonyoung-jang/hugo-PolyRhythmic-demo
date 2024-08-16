@@ -1,0 +1,3 @@
+[submodule "themes/PolyRhythmic"]
+	path = themes/PolyRhythmic
+	url = https://github.com/wonyoung-jang/hugo-PolyRhythmic.git

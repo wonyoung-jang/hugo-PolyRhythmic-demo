@@ -1,0 +1,16 @@
+highlight:
+  anchorLineNos: true
+  codeFences: true
+  guessSyntax: true
+  lineNos: true
+  tabWidth: 4
+  style: github-dark
+
+tableOfContents:
+  ordered: false
+  startLevel: 1
+  endLevel: 6
+  
+goldmark:
+  parser:
+    wrapStandAloneImageWithinParagraph: false
