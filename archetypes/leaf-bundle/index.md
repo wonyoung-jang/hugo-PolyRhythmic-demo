@@ -4,4 +4,4 @@ draft: true
 title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 ---
 
-Blank default content archetype
+Blank leaf bundle content archetype
