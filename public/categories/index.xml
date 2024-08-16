@@ -1,10 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on
-PolyRhythmic</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/categories/</link><description>
-Recent content in Categories on PolyRhythmic</description><generator><meta name="generator" content="Hugo 0.132.2"/><language>
-en-US</language><managingEditor>
-contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>
-contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>
-&lt;!--Creative Commons License-->
-This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-&lt;!--/Creative Commons License--></copyright><atom:link href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>
+      
+        
+          Categories on 
+        
+        PolyRhythmic
+      
+    </title>
+    
+    <link>
+      http://192.168.40.181:1313/categories/
+    </link>
+
+    <description>
+      Recent content in Categories on PolyRhythmic
+    </description>
+    
+    <generator>
+      <meta name="generator" content="Hugo 0.132.2">
+    </generator>
+   
+    <language>
+      en-US
+    </language>
+    
+    
+      <managingEditor>
+        contact@wonyoungjang.org (Wonyoung Jang)
+      </managingEditor>
+    
+    
+    
+      <webMaster>
+        contact@wonyoungjang.org (Wonyoung Jang)
+      </webMaster>
+    
+    
+    
+      <copyright>
+        &lt;!--Creative Commons License--&gt;
+  This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+&lt;!--/Creative Commons License--&gt;
+
+      </copyright>
+    
+
+    
+      <atom:link href="http://192.168.40.181:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
