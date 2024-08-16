@@ -48,7 +48,7 @@
 
     
       <lastBuildDate>
-        Fri, 16 Aug 2024 15:00:44 -0400
+        Fri, 16 Aug 2024 16:52:01 -0400
       </lastBuildDate>
     
       <atom:link href="http://192.168.40.181:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -77,7 +77,7 @@
         </guid>
 
         <description>
-          &#xD;Mark (text highlight)&#xD;link&#xD;h2&#xD;This is a mark&#xD;Admonitions&#xD;link&#xD;h2&#xD;See: Logseq documentation - Advanced commands&#xD;warningThis is a warning&#xD;{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&#xA;errorThis is a sign of caution&#xD;starsThis is important&#xD;keepThis is pinned&#xD;lyricsThis is a verse&#xD;prompt_suggestionThis is an export&#xD;prompt_suggestionThis is a latex export&#xD;prompt_suggestionThis is a ascii export&#xD;query_statsThis is a query&#xD;sticky_note_2This is a note&#xD;lightbulbThis is a tip&#xD;descriptionThis is an example&#xD;commentThis is a comment&#xD;format_quoteThis is a quote&#xD;
+          Mark (text highlight)&#xD;link&#xD;h2&#xD;This is a mark&#xD;{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}&#xA;Admonitions&#xD;link&#xD;h2&#xD;See: Logseq documentation - Advanced commands&#xD;warningThis is a warning&#xD;{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&#xA;errorThis is a sign of caution&#xD;{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}&#xA;starsThis is important&#xD;{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}
         </description>
       </item>
       <item>

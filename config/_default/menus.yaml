@@ -87,6 +87,10 @@ main:
     pre: variable_add
     parent: Components
 
+  - name: Shortcodes
+    pageRef: /polyrhythmic-shortcodes
+    pre: code
+    weight: 40
   - name: Playground
     pageRef: /playground
     pre: markdown
@@ -98,6 +102,10 @@ main:
 quick links:
   - name: Archives
     pageRef: /archives
+  - name: Shortcodes
+    pageRef: /polyrhythmic-shortcodes
+  - name: Playground
+    pageRef: /playground
   - name: RSS
     pageRef: /index.xml
   - name: Search
