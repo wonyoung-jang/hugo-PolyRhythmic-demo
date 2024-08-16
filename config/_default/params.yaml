@@ -9,16 +9,16 @@ home:
   title: PolyRhythmic Demo
   tagline: A fast, lightweight Material Design 3 Hugo theme
 
-  welcome: Welcome to the demo page of the PolyRhythmic Hugo theme
+  welcome: Welcome to the demo site for Hugo PolyRhythmic
   blurb: |
-    PolyRhythmic is based on Material Design 3
+    [PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic) is based on Material Design 3
 
     PolyRhythmic extends the official Material guidelines, while minimizing the amount of scripting
 
-    Show your support: give this a star on GitHub, share, and most importantly, use this theme for you own websites!
+    Show your support: give the theme a [star on GitHub](https://github.com/wonyoung-jang/hugo-PolyRhythmic), share, and most importantly, use it for your own websites!
 
   buttons:
-    resources:
+    material:
       - name: Material Design 3 Components
         url: /hugo-PolyRhythmic-demo/components
         icon: settings
@@ -28,6 +28,16 @@ home:
       - name: Material Design 3 Tokens
         url: /hugo-PolyRhythmic-demo/tokens
         icon: token
+    resources:
+      - name: PolyRhythmic Shortcodes
+        url: /hugo-PolyRhythmic-demo/polyrhythmic-shortcodes
+        icon: code
+      - name: Playground
+        url: /hugo-PolyRhythmic-demo/playground
+        icon: markdown
+      - name: Source for this demo on GitHub
+        url: https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo
+        icon: frame_source
 
 author:
   name: Wonyoung Jang
