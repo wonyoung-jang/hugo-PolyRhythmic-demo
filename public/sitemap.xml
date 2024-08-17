@@ -8,7 +8,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/</loc>
-    <lastmod>2024-08-17T12:47:34-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,13 +27,8 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://192.168.40.181:1313/leaf/leaf-page/</loc>
-    <lastmod>2024-08-16T19:09:40-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://192.168.40.181:1313/leaf/</loc>
-    <lastmod>2024-08-16T19:09:40-04:00</lastmod>
+    <loc>http://192.168.40.181:1313/leaf-page/</loc>
+    <lastmod>2024-08-16T18:43:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -43,7 +38,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/action/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -53,12 +48,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/color/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/communication/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -68,22 +63,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/containment/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/elevation/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/feed-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/fixed-and-flexible-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -93,17 +88,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/list-detail-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/motion/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/navigation/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -118,17 +113,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/selection/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/shape/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/single-pane-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -138,22 +133,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/split-pane-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/state/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/layouts/supporting-pane-layout/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/components/text-input/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -163,7 +158,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://192.168.40.181:1313/tokens/typography/</loc>
-    <lastmod>2024-08-16T15:00:44-04:00</lastmod>
+    <lastmod>2024-08-17T15:38:49-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

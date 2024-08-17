@@ -36,14 +36,14 @@ home:
     Show your support: give the theme a [star on GitHub](https://github.com/wonyoung-jang/hugo-PolyRhythmic), share, and most importantly, use it for your own websites!
 
   buttons:
-    material:
-      - name: Material Design 3 Components
+    material 3:
+      - name: Components
         url: /hugo-PolyRhythmic-demo/components
         icon: settings
-      - name: Material Design 3 Layouts
+      - name: Layouts
         url: /hugo-PolyRhythmic-demo/layouts
         icon: view_quilt
-      - name: Material Design 3 Tokens
+      - name: Tokens
         url: /hugo-PolyRhythmic-demo/tokens
         icon: token
     resources:
@@ -56,3 +56,16 @@ home:
       - name: View the source for this website
         url: https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo
         icon: frame_source
+    hugo:
+      - name: Default Content Archetype
+        url: /hugo-PolyRhythmic-demo/default-content-archetype
+        icon: file_copy
+      - name: Leaf (no branch)
+        url: /hugo-PolyRhythmic-demo/leaf-page
+        icon: eco
+      - name: Branch
+        url: /hugo-PolyRhythmic-demo/branch
+        icon: spa
+      - name: Branch → Leaf
+        url: /hugo-PolyRhythmic-demo/branch/leaf
+        icon: potted_plant
