@@ -1,6 +1,5 @@
 ---
 date: '2024-08-17T12:21:16-04:00'
-draft: true
 title: 'Documentation'
 ---
 
