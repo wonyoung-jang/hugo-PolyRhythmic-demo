@@ -1,194 +1,784 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PolyRhythmic</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/</link><description>
-Recent content on PolyRhythmic</description><generator><meta name="generator" content="Hugo 0.132.2"/><language>
-en-US</language><managingEditor>
-contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>
-contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>
-&lt;!--Creative Commons License-->
-This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-&lt;!--/Creative Commons License--></copyright><lastBuildDate>
-Fri, 16 Aug 2024 19:07:01 -0400</lastBuildDate><atom:link href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/index.xml" rel="self" type="application/rss+xml"/><item><title>
-Default Content Archetype</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/default-content-archetype/</link><pubDate>
-Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/default-content-archetype/</guid><description>
-Inside content folder directly.
-Blank default content archetype</description></item><item><title>
-Branch → leaf</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/branch/leaf/</link><pubDate>
-Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/branch/leaf/</guid><description>
-Leaf-bundle inside a branch-bundle
-Blank leaf bundle content archetype</description></item><item><title>
-Leaf page</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/leaf/leaf-page/</link><pubDate>
-Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/leaf/leaf-page/</guid><description>
-Leaf-bundle
-Blank leaf bundle content archetype</description></item><item><title>
-PolyRhythmic Shortcodes</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/polyrhythmic-shortcodes/</link><pubDate>
-Fri, 16 Aug 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/polyrhythmic-shortcodes/</guid><description>
-Mark (text highlight)linkh2This is a mark{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}
-Admonitionslinkh2See: Logseq documentation - Advanced commandswarningThis is a warning{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}
-errorThis is a sign of caution{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}
-starsThis is important{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}</description></item><item><title>
-Action</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/action/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/action/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Archives</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/archives/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/archives/</guid><description/></item><item><title>
-Color</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/color/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/color/</guid><description>
-See: Material Design 3 - Colors</description></item><item><title>
-Communication</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/communication/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/communication/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Containment</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/containment/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/containment/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Elevation</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/elevation/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/elevation/</guid><description>
-See: Material Design 3 - Elevation</description></item><item><title>
-Feed layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/feed-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/feed-layout/</guid><description>
-See: Material Design 3 - Canonical layouts - Feed</description></item><item><title>
-Fixed and flexible layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/fixed-and-flexible-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/fixed-and-flexible-layout/</guid><description>
-See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>
-List-detail layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/list-detail-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/list-detail-layout/</guid><description>
-See: Material Design 3 - Canonical layouts - List-detail</description></item><item><title>
-Motion</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/motion/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/motion/</guid><description>
-See: Material Design 3 - Motion</description></item><item><title>
-Navigation</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/navigation/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/navigation/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Playground</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/playground/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/playground/</guid><description/></item><item><title>
-Search</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/search/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/search/</guid><description/></item><item><title>
-Selection</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/selection/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/selection/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Shape</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/shape/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/shape/</guid><description>
-See: Material Design 3 - Shapes</description></item><item><title>
-Single pane layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/single-pane-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/single-pane-layout/</guid><description>
-See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>
-Sitemap</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/sitemap/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/sitemap/</guid><description/></item><item><title>
-Split-pane layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/split-pane-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/split-pane-layout/</guid><description>
-See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>
-State</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/state/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/state/</guid><description>
-See: Material Design 3 - States</description></item><item><title>
-Supporting pane layout</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/supporting-pane-layout/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/layouts/supporting-pane-layout/</guid><description>
-See: Material Design 3 - Canonical layouts - Supporting pane</description></item><item><title>
-Text input</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/text-input/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/components/text-input/</guid><description>
-See: Material Design 3 - Components</description></item><item><title>
-Typography</title><link>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/typography/</link><pubDate>
-Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>
-contact@wonyoungjang.org
-(Wonyoung Jang)</author><guid>
-https://wonyoungjang.org/hugo-PolyRhythmic-demo/tokens/typography/</guid><description>
-See: Material Design 3 - Typography</description></item></channel></rss>
+
+  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>
+      
+        PolyRhythmic
+      
+    </title>
+    
+    <link>
+      http://192.168.40.181:1313/
+    </link>
+
+    <description>
+      Recent content on PolyRhythmic
+    </description>
+    
+    <generator>
+      <meta name="generator" content="Hugo 0.132.2">
+    </generator>
+   
+    <language>
+      en-US
+    </language>
+    
+    
+      <managingEditor>
+        contact@wonyoungjang.org (Wonyoung Jang)
+      </managingEditor>
+    
+    
+    
+      <webMaster>
+        contact@wonyoungjang.org (Wonyoung Jang)
+      </webMaster>
+    
+    
+    
+      <copyright>
+        &lt;!--Creative Commons License--&gt;
+  This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+&lt;!--/Creative Commons License--&gt;
+
+      </copyright>
+    
+
+    
+      <lastBuildDate>
+        Fri, 16 Aug 2024 19:09:40 -0400
+      </lastBuildDate>
+    
+      <atom:link href="http://192.168.40.181:1313/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>
+          Default Content Archetype
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/default-content-archetype/
+        </link>
+
+        <pubDate>
+          Fri, 16 Aug 2024 18:53:54 -0400
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/default-content-archetype/
+        </guid>
+
+        <description>
+          Inside content folder directly.&#xA;Blank default content archetype
+        </description>
+      </item>
+      <item>
+        <title>
+          Branch → leaf
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/branch/leaf/
+        </link>
+
+        <pubDate>
+          Fri, 16 Aug 2024 18:43:49 -0400
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/branch/leaf/
+        </guid>
+
+        <description>
+          Leaf-bundle inside a branch-bundle&#xA;Blank leaf bundle content archetype
+        </description>
+      </item>
+      <item>
+        <title>
+          Leaf page
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/leaf/leaf-page/
+        </link>
+
+        <pubDate>
+          Fri, 16 Aug 2024 18:43:49 -0400
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/leaf/leaf-page/
+        </guid>
+
+        <description>
+          Leaf-bundle&#xA;Blank leaf bundle content archetype
+        </description>
+      </item>
+      <item>
+        <title>
+          PolyRhythmic Shortcodes
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/polyrhythmic-shortcodes/
+        </link>
+
+        <pubDate>
+          Fri, 16 Aug 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/polyrhythmic-shortcodes/
+        </guid>
+
+        <description>
+          Mark (text highlight)&#xD;link&#xD;h2&#xD;This is a mark&#xD;{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}&#xA;Admonitions&#xD;link&#xD;h2&#xD;See: Logseq documentation - Advanced commands&#xD;warningThis is a warning&#xD;{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&#xA;errorThis is a sign of caution&#xD;{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}&#xA;starsThis is important&#xD;{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}
+        </description>
+      </item>
+      <item>
+        <title>
+          Action
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/action/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/action/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Archives
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/archives/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/archives/
+        </guid>
+
+        <description>
+          
+        </description>
+      </item>
+      <item>
+        <title>
+          Color
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/color/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/color/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Colors&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Communication
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/communication/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/communication/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Containment
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/containment/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/containment/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Elevation
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/elevation/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/elevation/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Elevation&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Feed layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/feed-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/feed-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Canonical layouts - Feed&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Fixed and flexible layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/fixed-and-flexible-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/fixed-and-flexible-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Layout basics - Parts of layout&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          List-detail layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/list-detail-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/list-detail-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Canonical layouts - List-detail&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Motion
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/motion/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/motion/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Motion&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Navigation
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/navigation/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/navigation/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Playground
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/playground/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/playground/
+        </guid>
+
+        <description>
+          
+        </description>
+      </item>
+      <item>
+        <title>
+          Search
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/search/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/search/
+        </guid>
+
+        <description>
+          
+        </description>
+      </item>
+      <item>
+        <title>
+          Selection
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/selection/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/selection/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Shape
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/shape/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/shape/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Shapes&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Single pane layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/single-pane-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/single-pane-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Layout basics - Parts of layout&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Sitemap
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/sitemap/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/sitemap/
+        </guid>
+
+        <description>
+          
+        </description>
+      </item>
+      <item>
+        <title>
+          Split-pane layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/split-pane-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/split-pane-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Layout basics - Parts of layout&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          State
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/state/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/state/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - States&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Supporting pane layout
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/layouts/supporting-pane-layout/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/layouts/supporting-pane-layout/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Canonical layouts - Supporting pane&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Text input
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/components/text-input/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/components/text-input/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Components&#xD;
+        </description>
+      </item>
+      <item>
+        <title>
+          Typography
+        </title>
+
+        <link>
+          http://192.168.40.181:1313/tokens/typography/
+        </link>
+
+        <pubDate>
+          Mon, 01 Jan 2024 00:00:00 +0000
+        </pubDate>
+          <author>
+            contact@wonyoungjang.org
+            
+              (Wonyoung Jang)
+            
+          </author>
+        
+
+        <guid>
+          http://192.168.40.181:1313/tokens/typography/
+        </guid>
+
+        <description>
+          &#xD;See: Material Design 3 - Typography&#xD;
+        </description>
+      </item>
+  </channel>
+</rss>
