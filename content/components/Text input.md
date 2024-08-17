@@ -5,6 +5,6 @@ layout: text_inputs
 title: Text input
 type: showcase/components
 ---
-![text-inputs.webp](/assets/text-inputs_1721246304147_0.webp)
+![text-inputs.webp](/images/text-inputs_1721246304147_0.webp)
 
 See: [Material Design 3 - Components](https://m3.material.io/components)

@@ -5,6 +5,6 @@ layout: selections
 title: Selection
 type: showcase/components
 ---
-![selections.webp](/assets/selections_1721246316916_0.webp)
+![selections.webp](/images/selections_1721246316916_0.webp)
 
 See: [Material Design 3 - Components](https://m3.material.io/components)

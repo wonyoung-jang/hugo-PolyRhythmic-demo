@@ -2,4 +2,4 @@ minify:
   minifyOutput: false
 
 params:
-  debug: true
+  debug: true # Set to true if you would like the debug bar and element outlining

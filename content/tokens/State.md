@@ -5,6 +5,6 @@ layout: states
 title: State
 type: showcase/tokens
 ---
-![states.webp](/assets/states_1721309641312_0.webp)
+![states.webp](/images/states_1721309641312_0.webp)
 
 See: [Material Design 3 - States](https://m3.material.io/foundations/interaction/states/overview)
