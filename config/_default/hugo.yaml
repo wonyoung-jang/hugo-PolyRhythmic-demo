@@ -46,7 +46,6 @@ enableGitInfo: true
 ##################
 # Build settings #
 ##################
-# (build.yaml)
 # buildDrafts: false
 # buildExpired: false
 # buildFuture: false
@@ -68,70 +67,47 @@ cleanDestinationDir: true
 ######################
 # Markup & rendering #
 ######################
-# (markup.yaml)
-# (mediatypes.yaml)
-# (minify.yaml)
-# (outputFormats.yaml)
-# (imaging.yaml)
-# (outputs.yaml)
-# (segments.yaml)
 # renderSegments: (string slice)
-
-######################
-# Menus & navigation #
-######################
-# (menus.yaml)
-# (pagination.yaml)
-# (permalinks.yaml)
-
-#####################
-# Language settings #
-#####################
-# (languages.yaml)
-# (disableLanguages.yaml)
 
 ########################
 # Deployment & hosting #
 ########################
-# (deployment.yaml)
-# (sitemap.yaml)
 enableRobotsTXT: true
-
-###########
-# Caching #
-###########
-# (caches.yaml)
-# (httpcache.yaml)
-
-############
-# Security #
-############
-# (security.yaml)
-# (privacy.yaml)
 
 ########################
 # Server & development #
 ########################
-# (server.yaml)
 # disableLiveReload: false
 # timeout: 30s
 # watch: false
 
-#######################
-# Content enhancement #
-#######################
+###################
+# Keyed settings  #
+###################
+# (build.yaml)
+# (caches.yaml)
 # (cascade.yaml)
+# (deployment.yaml)
+# (disableLanguages.yaml)
 # (frontmatter.yaml)
-# (related.yaml)
-# (taxonomies.yaml)
-
-################
-# Integrations #
-################
+# (httpcache.yaml)
+# (imaging.yaml)
+# (languages.yaml)
+# (markup.yaml)
+# (mediatypes.yaml)
+# (menus.yaml)
+# (minify.yaml)
 # (module.yaml)
-# (services.yaml)
-
-###########
-# Params  #
-###########
+# (outputFormats.yaml)
+# (outputs.yaml)
+# (pagination.yaml)
 # (params.yaml)
+# (permalinks.yaml)
+# (privacy.yaml)
+# (related.yaml)
+# (security.yaml)
+# (segments.yaml)
+# (server.yaml)
+# (services.yaml)
+# (sitemap.yaml)
+# (taxonomies.yaml)
