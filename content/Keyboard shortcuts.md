@@ -1,0 +1,79 @@
+---
+date: 2024-08-18
+description: This page contains a keyboard shortcuts/access keys for this theme
+title: Keyboard shortcuts
+---
+
+- ## Windows
+    - ### Firefox
+        - #### Appearance
+            - `ALT` + `SHIFT` + `t` → Toggle light/dark themes
+            - `ALT` + `SHIFT` + `c` → Open theme controls modal
+        - #### Navigation
+            - `ALT` + `SHIFT` + `g` → Go back to top
+            - `ALT` + `SHIFT` + `h` → Go to home page
+            - `ALT` + `SHIFT` + `r` → Go to random page
+            - `ALT` + `SHIFT` + `p` → Go to previous page
+            - `ALT` + `SHIFT` + `n` → Go to next page
+    - ### Edge, Chrome, Opera 15+
+        - #### Appearance
+            - `ALT` + `t` → Toggle light/dark themes
+            - `ALT` + `c` → Open theme controls modal
+        - #### Navigation
+            - `ALT` + `g` → Go back to top
+            - `ALT` + `h` → Go to home page
+            - `ALT` + `r` → Go to random page
+            - `ALT` + `p` → Go to previous page
+            - `ALT` + `n` → Go to next page
+- ## Linux
+    - ### Firefox
+        - #### Appearance
+            - `ALT` + `SHIFT` + `t` → Toggle light/dark themes
+            - `ALT` + `SHIFT` + `c` → Open theme controls modal
+        - #### Navigation
+            - `ALT` + `SHIFT` + `g` → Go back to top
+            - `ALT` + `SHIFT` + `h` → Go to home page
+            - `ALT` + `SHIFT` + `r` → Go to random page
+            - `ALT` + `SHIFT` + `p` → Go to previous page
+            - `ALT` + `SHIFT` + `n` → Go to next page
+    - ### Edge, Chrome
+        - #### Appearance
+            - `CONTROL` + `OPTION` + `t` → Toggle light/dark themes
+            - `CONTROL` + `OPTION` + `c` → Open theme controls modal
+        - #### Navigation
+            - `CONTROL` + `OPTION` + `g` → Go back to top
+            - `CONTROL` + `OPTION` + `h` → Go to home page
+            - `CONTROL` + `OPTION` + `r` → Go to random page
+            - `CONTROL` + `OPTION` + `p` → Go to previous page
+            - `CONTROL` + `OPTION` + `n` → Go to next page
+    - ### Opera 15+
+        - #### Appearance
+            - `ALT` + `t` → Toggle light/dark themes
+            - `ALT` + `c` → Open theme controls modal
+        - #### Navigation
+            - `ALT` + `g` → Go back to top
+            - `ALT` + `h` → Go to home page
+            - `ALT` + `r` → Go to random page
+            - `ALT` + `p` → Go to previous page
+            - `ALT` + `n` → Go to next page
+- ## Mac
+    - ### Firefox, Chrome, Safari
+        - #### Appearance
+            - `CONTROL` + `OPTION` + `t` → Toggle light/dark themes
+            - `CONTROL` + `OPTION` + `c` → Open theme controls modal
+        - #### Navigation
+            - `CONTROL` + `OPTION` + `g` → Go back to top
+            - `CONTROL` + `OPTION` + `h` → Go to home page
+            - `CONTROL` + `OPTION` + `r` → Go to random page
+            - `CONTROL` + `OPTION` + `p` → Go to previous page
+            - `CONTROL` + `OPTION` + `n` → Go to next page
+    - ### Opera 15+
+        - #### Appearance
+            - `CONTROL` + `ALT` + `t` → Toggle light/dark themes
+            - `CONTROL` + `ALT` + `c` → Open theme controls modal
+        - #### Navigation
+            - `CONTROL` + `ALT` + `g` → Go back to top
+            - `CONTROL` + `ALT` + `h` → Go to home page
+            - `CONTROL` + `ALT` + `r` → Go to random page
+            - `CONTROL` + `ALT` + `p` → Go to previous page
+            - `CONTROL` + `ALT` + `n` → Go to next page

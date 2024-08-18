@@ -50,6 +50,9 @@ home:
       - name: Contact
         url: /hugo-PolyRhythmic-demo/contact
         icon: contact_page
+      - name: Keyboard shortcuts
+        url: /hugo-PolyRhythmic-demo/keyboard-shortcuts
+        icon: keyboard
       - name: PolyRhythmic Shortcodes
         url: /hugo-PolyRhythmic-demo/polyrhythmic-shortcodes
         icon: code
