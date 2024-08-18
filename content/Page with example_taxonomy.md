@@ -1,6 +1,5 @@
 ---
 date: '2024-08-17T19:40:13-04:00'
-draft: true
 title: 'Page With Example_taxonomy'
 example_taxonomies: 
 - example_term

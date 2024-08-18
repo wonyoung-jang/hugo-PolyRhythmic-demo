@@ -47,6 +47,9 @@ home:
         url: /hugo-PolyRhythmic-demo/tokens
         icon: token
     resources:
+      - name: Contact
+        url: /hugo-PolyRhythmic-demo/contact
+        icon: contact_page
       - name: PolyRhythmic Shortcodes
         url: /hugo-PolyRhythmic-demo/polyrhythmic-shortcodes
         icon: code
