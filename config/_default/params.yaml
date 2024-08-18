@@ -69,3 +69,13 @@ home:
       - name: Branch → Leaf
         url: /hugo-PolyRhythmic-demo/branch/leaf
         icon: potted_plant
+    taxonomies:
+      - name: Example taxonomy
+        url: /hugo-PolyRhythmic-demo/example_taxonomies/
+        icon: atr
+      - name: Example term
+        url: /hugo-PolyRhythmic-demo/example_taxonomies/example_term/
+        icon: label
+      - name: Page with example taxonomy
+        url: /hugo-PolyRhythmic-demo/page-with-example_taxonomy/
+        icon: description

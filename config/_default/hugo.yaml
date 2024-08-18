@@ -28,9 +28,9 @@ title: PolyRhythmic
 ######################
 # defaultContentLanguage: en
 # defaultContentLanguageInSubdir: false
-disableKinds:
-- taxonomy
-- term
+# disableKinds:
+# - taxonomy
+# - term
 # enableEmoji: false
 enableGitInfo: true
 # enableMissingTranslationPlaceholders: false
