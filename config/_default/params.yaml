@@ -29,7 +29,7 @@ home:
 
   welcome: Welcome to the demo site for Hugo PolyRhythmic
   blurb: |
-    [PolyRhythmic](https://github.com/wonyoung-jang/hugo-PolyRhythmic) is based on Material Design 3
+    [PolyRhythmic](https://themes.gohugo.io/themes/hugo-polyrhythmic/) is based on Material Design 3
 
     PolyRhythmic extends the official Material guidelines, while minimizing the amount of scripting
 
