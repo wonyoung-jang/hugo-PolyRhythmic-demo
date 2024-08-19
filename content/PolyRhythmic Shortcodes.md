@@ -1,5 +1,5 @@
 ---
-title: "PolyRhythmic Shortcodes"
+title: "PolyRhythmic shortcodes"
 date: 2024-08-16
 ---
 
