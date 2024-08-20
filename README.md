@@ -1,8 +1,13 @@
 <h1 align=center>Hugo PolyRhythmic Demo Site | <a href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/" rel="nofollow">Live Demo</a></h1>
 
-### [PolyRhythmic on official Hugo site](https://themes.gohugo.io/themes/hugo-polyrhythmic/)
+<h3 align=center>❗This theme is still very much in development. Please use with caution.</h3>
 
-### [PolyRhythmic on GitHub](https://github.com/wonyoung-jang/hugo-PolyRhythmic)
+<h3 align=center>PolyRhythmic is on: 
+<a href="https://themes.gohugo.io/themes/hugo-polyrhythmic/" rel="nofollow">Hugo Themes</a> | 
+<a href="https://github.com/wonyoung-jang/hugo-PolyRhythmic" rel="nofollow">GitHub</a>
+</h3>
+
+<br>
 
 [![GitHub](https://img.shields.io/github/license/wonyoung-jang/hugo-PolyRhythmic)](https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo/blob/main/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/wonyoung-jang/hugo-PolyRhythmic-demo)
