@@ -38,50 +38,50 @@ home:
   buttons:
     material 3:
       - name: Components
-        url: /hugo-PolyRhythmic-demo/components
+        url: /components
         icon: settings
       - name: Layouts
-        url: /hugo-PolyRhythmic-demo/layouts
+        url: /layouts
         icon: view_quilt
       - name: Tokens
-        url: /hugo-PolyRhythmic-demo/tokens
+        url: /tokens
         icon: token
     resources:
       - name: Contact
-        url: /hugo-PolyRhythmic-demo/contact
+        url: /contact
         icon: contact_page
       - name: Keyboard shortcuts
-        url: /hugo-PolyRhythmic-demo/keyboard-shortcuts
+        url: /keyboard-shortcuts
         icon: keyboard
       - name: PolyRhythmic Shortcodes
-        url: /hugo-PolyRhythmic-demo/polyrhythmic-shortcodes
+        url: /polyrhythmic-shortcodes
         icon: code
       - name: Playground
-        url: /hugo-PolyRhythmic-demo/playground
+        url: /playground
         icon: markdown
       - name: View the source for this website
         url: https://github.com/wonyoung-jang/hugo-PolyRhythmic-demo
         icon: frame_source
     hugo:
       - name: Default Content Archetype
-        url: /hugo-PolyRhythmic-demo/default-content-archetype
+        url: /default-content-archetype
         icon: file_copy
       - name: Leaf (no branch)
-        url: /hugo-PolyRhythmic-demo/leaf-page
+        url: /leaf-page
         icon: eco
       - name: Branch
-        url: /hugo-PolyRhythmic-demo/branch
+        url: /branch
         icon: spa
       - name: Branch → Leaf
-        url: /hugo-PolyRhythmic-demo/branch/leaf
+        url: /branch/leaf
         icon: potted_plant
     taxonomies:
       - name: Example taxonomy
-        url: /hugo-PolyRhythmic-demo/example_taxonomies/
+        url: /example_taxonomies/
         icon: atr
       - name: Example term
-        url: /hugo-PolyRhythmic-demo/example_taxonomies/example_term/
+        url: /example_taxonomies/example_term/
         icon: label
       - name: Page with example taxonomy
-        url: /hugo-PolyRhythmic-demo/page-with-example_taxonomy/
+        url: /page-with-example_taxonomy/
         icon: description
