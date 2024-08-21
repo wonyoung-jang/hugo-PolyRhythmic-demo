@@ -1,4 +1,4 @@
-<h1 align=center>Hugo PolyRhythmic Demo Site | <a href="https://wonyoungjang.org/hugo-PolyRhythmic-demo/" rel="nofollow">Live Demo</a></h1>
+<h1 align=center>Hugo PolyRhythmic Demo Site | <a href="https://polyrhythmic.xyz/" rel="nofollow">Live Demo</a></h1>
 
 <h3 align=center>❗This theme is still very much in development. Please use with caution.</h3>
 
@@ -16,7 +16,7 @@
 
 [Theme source code available](https://github.com/wonyoung-jang/hugo-PolyRhythmic/) on GitHub. 
 
-[This live demo site is](https://wonyoungjang.org/hugo-PolyRhythmic-demo/) hosted as a GitHub Project Page.
+[This live demo site is](https://polyrhythmic.xyz/) hosted as a GitHub Project Page.
 
 ## Material Design 3
 
