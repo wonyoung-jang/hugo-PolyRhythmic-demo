@@ -5,3 +5,4 @@ title: 'Test'
 ---
 
 Blank default content archetype
+Add test content
