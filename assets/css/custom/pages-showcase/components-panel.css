@@ -4,10 +4,10 @@
   align-items: center;
   max-width: fit-content;
   border-radius: var(--shape-corner-m);
-  margin: 0 auto;
   padding: var(--spacing-panes);
   background: var(--color-surface-container);
   gap: var(--size-5);
+  margin: 0 auto;
 
   .panel-button-grid,
   .row,
@@ -19,14 +19,14 @@
   
   .row {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     align-items: center;
     justify-content: space-evenly;
   }
   
   .column {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column wrap;
     align-items: center;
     justify-content: center;
   }
