@@ -107,7 +107,7 @@ quick links:
   - name: Playground
     pageRef: /playground
   - name: RSS
-    pageRef: /index.xml
+    url: /index.xml
   - name: Search
     pageRef: /search
   - name: Sitemap
