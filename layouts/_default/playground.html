@@ -1,8 +1,119 @@
 {{- define "main" -}}
 <article class="layout panes basic-single-pane">
   <section class="layout pane" id="playground">
-    {{/*  Used by Logseq  */}}
-    <section class="test-set">
+    {{/*  Used by Logseq <section class="element-table">
+      <h2>Used by Logseq</h2>
+      
+      <hr>
+      <table>
+        <caption><h3>Content sectioning</h3></caption>
+        <thead>
+          <th>Markup</th>
+          <th>Rendered</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>< h1 ></b></td>
+            <td><h1>h1</h1></td>
+          </tr>
+          <tr>
+            <td><b>< h2 ></b></td>
+            <td><h2>h2</h2></td>
+          </tr>
+          <tr>
+            <td><b>< h3 ></b></td>
+            <td><h3>h3</h3></td>
+          </tr>
+          <tr>
+            <td><b>< h4 ></b></td>
+            <td><h4>h4</h4></td>
+          </tr>
+          <tr>
+            <td><b>< h5 ></b></td>
+            <td><h5>h5</h5></td>
+          </tr>
+          <tr>
+            <td><b>< h6 ></b></td>
+            <td><h6>h6</h6></td>
+          </tr>
+
+        </tbody>
+      </table>
+      <hr>
+      <h3>Text content</h3>
+      
+      <b>< blockquote ></b>
+      <blockquote>blockquote</blockquote>
+      
+      <b>< pre ></b>
+      <pre>pre</pre>
+      
+      <b>< div ></b>
+      <div>div</div>
+      
+      <b>< p ></b>
+      <p>p</p>
+      
+      <b>< ul ></b>
+      <ul>ul</ul>
+
+      <b>< li ></b>
+      <li>li</li>
+
+      <hr>
+      <h3>Inline text semantics</h3>
+      
+      <b>< span ></b>
+      <span>span</span>
+
+      <b>< a ></b>
+      <a href="#">a</a>
+
+      <b>< code ></b>
+      <code>code</code>
+      
+      <b>< del ></b>
+      <del>del</del>
+      
+      <b>< em ></b>
+      <em>em</em>
+      
+      <b>< figure >, < img >, < figcaption ></b>
+      <figure>
+        <img 
+            src="/assets/logseq-elements_1719436919750_0.png" 
+            alt="logseq-elements.png">
+        <figcaption>
+        </figcaption>
+      </figure>
+      
+      <b>< mark ></b>
+      <mark>mark</mark>
+      
+      <b>< strong ></b>
+      <strong>strong</strong>
+
+      <hr>
+      <h3>Tables</h3>
+      <b>< table >, < thead >, < tbody >, < tr >, < th >, < td ></b>
+      <table>
+        <thead>
+          <tr>
+            <th>th</th>
+            <th>th</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>td</td>
+            <td>td</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>  */}}
+
+    {{/*  Components Panel  */}}
+    <section class="panel">
       <h2>Components panel</h2>
       <hr>
       <div class="components-panel">
@@ -128,731 +239,598 @@
         </div>
       </div>
     </section>
-    {{/*  Used by Logseq  */}}
-    {{/*  
-    <section class="test-set">
-      <h2>Used by Logseq</h2>
-      
-      <hr>
-      <table>
-        <caption><h3>Content sectioning</h3></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< h1 ></b></td>
-            <td><h1>h1</h1></td>
-          </tr>
-          <tr>
-            <td><b>< h2 ></b></td>
-            <td><h2>h2</h2></td>
-          </tr>
-          <tr>
-            <td><b>< h3 ></b></td>
-            <td><h3>h3</h3></td>
-          </tr>
-          <tr>
-            <td><b>< h4 ></b></td>
-            <td><h4>h4</h4></td>
-          </tr>
-          <tr>
-            <td><b>< h5 ></b></td>
-            <td><h5>h5</h5></td>
-          </tr>
-          <tr>
-            <td><b>< h6 ></b></td>
-            <td><h6>h6</h6></td>
-          </tr>
-
-        </tbody>
-      </table>
-      <hr>
-      <h3>Text content</h3>
-      
-      <b>< blockquote ></b>
-      <blockquote>blockquote</blockquote>
-      
-      <b>< pre ></b>
-      <pre>pre</pre>
-      
-      <b>< div ></b>
-      <div>div</div>
-      
-      <b>< p ></b>
-      <p>p</p>
-      
-      <b>< ul ></b>
-      <ul>ul</ul>
-
-      <b>< li ></b>
-      <li>li</li>
-
-      <hr>
-      <h3>Inline text semantics</h3>
-      
-      <b>< span ></b>
-      <span>span</span>
-
-      <b>< a ></b>
-      <a href="#">a</a>
-
-      <b>< code ></b>
-      <code>code</code>
-      
-      <b>< del ></b>
-      <del>del</del>
-      
-      <b>< em ></b>
-      <em>em</em>
-      
-      <b>< figure >, < img >, < figcaption ></b>
-      <figure>
-        <img 
-            src="/assets/logseq-elements_1719436919750_0.png" 
-            alt="logseq-elements.png">
-        <figcaption>
-        </figcaption>
-      </figure>
-      
-      <b>< mark ></b>
-      <mark>mark</mark>
-      
-      <b>< strong ></b>
-      <strong>strong</strong>
-
-      <hr>
-      <h3>Tables</h3>
-      <b>< table >, < thead >, < tbody >, < tr >, < th >, < td ></b>
-      <table>
-        <thead>
-          <tr>
-            <th>th</th>
-            <th>th</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>td</td>
-            <td>td</td>
-          </tr>
-        </tbody>
-      </table>
-    </section>  
-    */}}
 
     {{/*  Content sectioning  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Content sectioning</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< address ></b></td>
-            <td><address>address</address></td>
-          </tr>
-          <tr>
-            <td><b>< article ></b></td>
-            <td><article>article</article></td>
-          </tr>
-          <tr>
-            <td><b>< aside ></b></td>
-            <td><aside>aside</aside></td>
-          </tr>
-          <tr>
-            <td><b>< footer ></b></td>
-            <td><footer>footer</footer></td>
-          </tr>
-          <tr>
-            <td><b>< header ></b></td>
-            <td><header>header</header></td>
-          </tr>
-          <tr>
-            <td><b>< h1 ></b></td>
-            <td><h1>h1</h1></td>
-          </tr>
-          <tr>
-            <td><b>< h2 ></b></td>
-            <td><h2>h2</h2></td>
-          </tr>
-          <tr>
-            <td><b>< h3 ></b></td>
-            <td><h3>h3</h3></td>
-          </tr>
-          <tr>
-            <td><b>< h4 ></b></td>
-            <td><h4>h4</h4></td>
-          </tr>
-          <tr>
-            <td><b>< h5 ></b></td>
-            <td><h5>h5</h5></td>
-          </tr>
-          <tr>
-            <td><b>< h6 ></b></td>
-            <td><h6>h6</h6></td>
-          </tr>
-          <tr>
-            <td><b>< hgroup ></b></td>
-            <td><hgroup>hgroup</hgroup></td>
-          </tr>
-          <tr>
-            <td><b>< nav ></b></td>
-            <td><nav>nav</nav></td>
-          </tr>
-          <tr>
-            <td><b>< section ></b></td>
-            <td><section>section</section></td>
-          </tr>
-        </tbody>
-      </table>      
+    <table class="element-table">
+      <caption><h2>Content sectioning</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< address ></b></td>
+          <td><address>address</address></td>
+        </tr>
+        <tr>
+          <td><b>< article ></b></td>
+          <td><article>article</article></td>
+        </tr>
+        <tr>
+          <td><b>< aside ></b></td>
+          <td><aside>aside</aside></td>
+        </tr>
+        <tr>
+          <td><b>< footer ></b></td>
+          <td><footer>footer</footer></td>
+        </tr>
+        <tr>
+          <td><b>< header ></b></td>
+          <td><header>header</header></td>
+        </tr>
+        <tr>
+          <td><b>< h1 ></b></td>
+          <td><h1>h1</h1></td>
+        </tr>
+        <tr>
+          <td><b>< h2 ></b></td>
+          <td><h2>h2</h2></td>
+        </tr>
+        <tr>
+          <td><b>< h3 ></b></td>
+          <td><h3>h3</h3></td>
+        </tr>
+        <tr>
+          <td><b>< h4 ></b></td>
+          <td><h4>h4</h4></td>
+        </tr>
+        <tr>
+          <td><b>< h5 ></b></td>
+          <td><h5>h5</h5></td>
+        </tr>
+        <tr>
+          <td><b>< h6 ></b></td>
+          <td><h6>h6</h6></td>
+        </tr>
+        <tr>
+          <td><b>< hgroup ></b></td>
+          <td><hgroup>hgroup</hgroup></td>
+        </tr>
+        <tr>
+          <td><b>< nav ></b></td>
+          <td><nav>nav</nav></td>
+        </tr>
+        <tr>
+          <td><b>< section ></b></td>
+          <td><section>section</section></td>
+        </tr>
+      </tbody>
       {{/*  <search>
         search
         <input type="search" />
         <button>button</button>
       </search>  */}}
-    </section>
+    </table>
       
     {{/*  Text content  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Text content</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< blockquote ></b></td>
-            <td><blockquote>blockquote</blockquote></td>
-          </tr>
-          <tr>
-            <td><b>< pre ></b></td>
-            <td><pre>pre</pre></td>
-          </tr>
-          <tr>
-            <td><b>< div ></b></td>
-            <td><div>div</div></td>
-          </tr>
-          <tr>
-            <td><b>< p ></b></td>
-            <td><p>p</p></td>
-          </tr>
-          <tr>
-            <td><b>< figure ></b></td>
-            <td>
-              <figure>
-                <b>< figcaption ></b>
-                <figcaption>figcaption</figcaption>
-              </figure>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< hr ></b></td>
-            <td><hr></td>
-          </tr>
-          <tr>
-            <td><b>< ul > < li ></b></td>
-            <td>
-              <ul>
-                ul
-                <li>li</li>
-                <li>li</li>
-                <li>li</li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b>< ol > < li ></b>
-            </td>
-            <td>
-              <ol>
-                ol
-                <li>li</li>
-                <li>li</li>
-                <li>li</li>
-              </ol>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b>< dl > < dt > < dd ></b>
-            </td>
-            <td>
-              <dl>
-                dl
-                <dt>dt</dt>
-                <dd>dd</dd>
-              </dl>        
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <b>< menu > < li ></b>
-            </td>
-            <td>
-              <menu>
-                menu
-                <li>li</li>
-                <li>li</li>
-                <li>li</li>
-              </menu>     
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Text content</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< blockquote ></b></td>
+          <td><blockquote>blockquote</blockquote></td>
+        </tr>
+        <tr>
+          <td><b>< pre ></b></td>
+          <td><pre>pre</pre></td>
+        </tr>
+        <tr>
+          <td><b>< div ></b></td>
+          <td><div>div</div></td>
+        </tr>
+        <tr>
+          <td><b>< p ></b></td>
+          <td><p>p</p></td>
+        </tr>
+        <tr>
+          <td><b>< figure ></b></td>
+          <td>
+            <figure>
+              <b>< figcaption ></b>
+              <figcaption>figcaption</figcaption>
+            </figure>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< hr ></b></td>
+          <td><hr></td>
+        </tr>
+        <tr>
+          <td><b>< ul > < li ></b></td>
+          <td>
+            <ul>
+              ul
+              <li>li</li>
+              <li>li</li>
+              <li>li</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>< ol > < li ></b>
+          </td>
+          <td>
+            <ol>
+              ol
+              <li>li</li>
+              <li>li</li>
+              <li>li</li>
+            </ol>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>< dl > < dt > < dd ></b>
+          </td>
+          <td>
+            <dl>
+              dl
+              <dt>dt</dt>
+              <dd>dd</dd>
+            </dl>        
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>< menu > < li ></b>
+          </td>
+          <td>
+            <menu>
+              menu
+              <li>li</li>
+              <li>li</li>
+              <li>li</li>
+            </menu>     
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Inline text semantics  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Inline text semantics</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< span ></b></td>
-            <td><span>span</span></td>
-          </tr>
-          <tr>
-            <td><b>< a ></b></td>
-            <td><a href="#">a</a></td>
-          </tr>
-          <tr>
-            <td><b>< abbr ></b></td>
-            <td><abbr title="Abbreviation">abbr</abbr></td>
-          </tr>
-          <tr>
-            <td><b>< b ></b></td>
-            <td><b>b</b></td>
-          </tr>
-          <tr>
-            <td><b>< strong ></b></td>
-            <td><strong>strong</strong></td>
-          </tr>
-          <tr>
-            <td><b>< code ></b></td>
-            <td><code>code</code></td>
-          </tr>
-          <tr>
-            <td><b>< kbd ></b></td>
-            <td><kbd>kbd</kbd></td>
-          </tr>
-          <tr>
-            <td><b>< samp ></b></td>
-            <td><samp>samp</samp></td>
-          </tr>
-          <tr>
-            <td><b>< em ></b></td>
-            <td><em>em</em></td>
-          </tr>
-          <tr>
-            <td><b>< i ></b></td>
-            <td><i>i</i></td>
-          </tr>
-          <tr>
-            <td><b>< bdi ></b></td>
-            <td><bdi>bdi Bidirectional Isolate element</bdi></td>
-          </tr>
-          <tr>
-            <td><b>< bdo ></b></td>
-            <td><bdo dir="rtl">bdo Bidirectional Text Override element</bdo></td>
-          </tr>
-          <tr>
-            <td><b>< br ></b></td>
-            <td><br /></td>
-          </tr>
-          <tr>
-            <td><b>< sub ></b></td>
-            <td><span>Subscript<sub>sub</sub></span></td>
-          </tr>
-          <tr>
-            <td><b>< sup ></b></td>
-            <td><span>Superscript<sup>sup</sup></span></td>
-          </tr>
-          <tr>
-            <td><b>< mark ></b></td>
-            <td><mark>mark</mark></td>
-          </tr>
-          <tr>
-            <td><b>< cite ></b></td>
-            <td><cite>cite</cite></td>
-          </tr>
-          <tr>
-            <td><b>< data ></b></td>
-            <td><data value="123">data</data></td>
-          </tr>
-          <tr>
-            <td><b>< dfn ></b></td>
-            <td><dfn>dfn</dfn></td>
-          </tr>
-          <tr>
-            <td><b>< q ></b></td>
-            <td><q>q</q></td>
-          </tr>
-          <tr>
-            <td><b>< ruby >, < rt >, < rp ></rt></b></td>
-            <td>
-              <ruby> ruby<rp>(</rp><rt>rt</rt><rp>)</rp> </ruby>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< s ></b></td>
-            <td><s>s</s></td>
-          </tr>
-          <tr>
-            <td><b>< small ></b></td>
-            <td><small>small</small></td>
-          </tr>
-          <tr>
-            <td><b>< time ></b></td>
-            <td><time datetime="2024-07-20">time</time></td>
-          </tr>
-          <tr>
-            <td><b>< u ></b></td>
-            <td><u>u</u></td>
-          </tr>
-          <tr>
-            <td><b>< var ></b></td>
-            <td><var>var</var></td>
-          </tr>
-          <tr>
-            <td><b>< wbr ></b></td>
-            <td><wbr /></td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Inline text semantics</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< span ></b></td>
+          <td><span>span</span></td>
+        </tr>
+        <tr>
+          <td><b>< a ></b></td>
+          <td><a href="#">a</a></td>
+        </tr>
+        <tr>
+          <td><b>< abbr ></b></td>
+          <td><abbr title="Abbreviation">abbr</abbr></td>
+        </tr>
+        <tr>
+          <td><b>< b ></b></td>
+          <td><b>b</b></td>
+        </tr>
+        <tr>
+          <td><b>< strong ></b></td>
+          <td><strong>strong</strong></td>
+        </tr>
+        <tr>
+          <td><b>< code ></b></td>
+          <td><code>code</code></td>
+        </tr>
+        <tr>
+          <td><b>< kbd ></b></td>
+          <td><kbd>kbd</kbd></td>
+        </tr>
+        <tr>
+          <td><b>< samp ></b></td>
+          <td><samp>samp</samp></td>
+        </tr>
+        <tr>
+          <td><b>< em ></b></td>
+          <td><em>em</em></td>
+        </tr>
+        <tr>
+          <td><b>< i ></b></td>
+          <td><i>i</i></td>
+        </tr>
+        <tr>
+          <td><b>< bdi ></b></td>
+          <td><bdi>bdi Bidirectional Isolate element</bdi></td>
+        </tr>
+        <tr>
+          <td><b>< bdo ></b></td>
+          <td><bdo dir="rtl">bdo Bidirectional Text Override element</bdo></td>
+        </tr>
+        <tr>
+          <td><b>< br ></b></td>
+          <td><br /></td>
+        </tr>
+        <tr>
+          <td><b>< sub ></b></td>
+          <td><span>Subscript<sub>sub</sub></span></td>
+        </tr>
+        <tr>
+          <td><b>< sup ></b></td>
+          <td><span>Superscript<sup>sup</sup></span></td>
+        </tr>
+        <tr>
+          <td><b>< mark ></b></td>
+          <td><mark>mark</mark></td>
+        </tr>
+        <tr>
+          <td><b>< cite ></b></td>
+          <td><cite>cite</cite></td>
+        </tr>
+        <tr>
+          <td><b>< data ></b></td>
+          <td><data value="123">data</data></td>
+        </tr>
+        <tr>
+          <td><b>< dfn ></b></td>
+          <td><dfn>dfn</dfn></td>
+        </tr>
+        <tr>
+          <td><b>< q ></b></td>
+          <td><q>q</q></td>
+        </tr>
+        <tr>
+          <td><b>< ruby >, < rt >, < rp ></rt></b></td>
+          <td>
+            <ruby> ruby<rp>(</rp><rt>rt</rt><rp>)</rp> </ruby>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< s ></b></td>
+          <td><s>s</s></td>
+        </tr>
+        <tr>
+          <td><b>< small ></b></td>
+          <td><small>small</small></td>
+        </tr>
+        <tr>
+          <td><b>< time ></b></td>
+          <td><time datetime="2024-07-20">time</time></td>
+        </tr>
+        <tr>
+          <td><b>< u ></b></td>
+          <td><u>u</u></td>
+        </tr>
+        <tr>
+          <td><b>< var ></b></td>
+          <td><var>var</var></td>
+        </tr>
+        <tr>
+          <td><b>< wbr ></b></td>
+          <td><wbr /></td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Image and multimedia  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Image and multimedia</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< map >, < area ></b></td>
-            <td>
-              <map name="example-map">
-                area
-                <area
-                  shape="rect"
-                  coords="0,0,100,100"
-                  href="#"
-                  alt="Area" />
-              </map>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< audio >, < source ></b></td>
-            <td>
-              <audio controls>
-                <source
-                  src="audio.mp3"
-                  type="audio/mpeg" />
-              </audio>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< img ></b></td>
-            <td>
-              <img
-                src="image.jpg"
-                alt="Img"
-                usemap="#example-map" />
-            </td>
-          </tr>
-          <tr>
-            <td><b>< video >,< track ></b></td>
-            <td>
-              <video controls>
-                track
-                <track
-                  kind="subtitles"
-                  srclang="en"
-                  label="English" />
-              </video>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Image and multimedia</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< map >, < area ></b></td>
+          <td>
+            <map name="example-map">
+              area
+              <area
+                shape="rect"
+                coords="0,0,100,100"
+                href="#"
+                alt="Area" />
+            </map>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< audio >, < source ></b></td>
+          <td>
+            <audio controls>
+              <source
+                src="audio.mp3"
+                type="audio/mpeg" />
+            </audio>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< img ></b></td>
+          <td>
+            <img
+              src="image.jpg"
+              alt="Img"
+              usemap="#example-map" />
+          </td>
+        </tr>
+        <tr>
+          <td><b>< video >,< track ></b></td>
+          <td>
+            <video controls>
+              track
+              <track
+                kind="subtitles"
+                srclang="en"
+                label="English" />
+            </video>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Embedded content  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Embedded content</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< embed ></b></td>
-            <td><embed type="text/html" src="embed.html" /></td>
-          </tr>
-          <tr>
-            <td><b>< iframe ></b></td>
-            <td><iframe src="iframe.html">iframe</iframe></td>
-          </tr>
-          <tr>
-            <td><b>< object >, < param ></b></td>
-            <td>
-              <object data="object.data" type="application/pdf">
-                param
-                <param name="param1" value="value1" />
-              </object>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< picture >, < source >, < img ></b></td>
-            <td>
-              <picture>
-                <source media="(min-width: 800px)" srcset="large.jpg" />
-                <source media="(min-width: 400px)" srcset="medium.jpg" />
-                <img src="small.jpg" alt="Picture" />
-              </picture>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Embedded content</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< embed ></b></td>
+          <td><embed type="text/html" src="embed.html" /></td>
+        </tr>
+        <tr>
+          <td><b>< iframe ></b></td>
+          <td><iframe src="iframe.html">iframe</iframe></td>
+        </tr>
+        <tr>
+          <td><b>< object >, < param ></b></td>
+          <td>
+            <object data="object.data" type="application/pdf">
+              param
+              <param name="param1" value="value1" />
+            </object>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< picture >, < source >, < img ></b></td>
+          <td>
+            <picture>
+              <source media="(min-width: 800px)" srcset="large.jpg" />
+              <source media="(min-width: 400px)" srcset="medium.jpg" />
+              <img src="small.jpg" alt="Picture" />
+            </picture>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  SVG and MathML  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>SVG and MathML</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< svg >, < g >, < path ></b></td>
-            <td>
-              <svg 
-                class="site-icon"
-                viewBox="0 0 512 512" 
-                xmlns="http://www.w3.org/2000/svg">
-                <path 
-                    class="site-icon-w"
-                    d=" M142.079 24.0422
-                        H223.663
-                        L253.288 112.721
-                        L283.37 24.0422
-                        H364.954
-                        L310.261 161.312
-                        L336.681 220.027
-                        L403.642 10
-                        L502 10
-                        L378.297 301.511
-                        H302
-                        L253.288 208.689
-                        L206.343 379.425
-                        H129.317
-                        L10 10
-                        H105.33
-                        L173.527 220.027
-                        L195.86 161.312
-                        L142.079 24.0422Z"/>
-                <path 
-                    class="site-icon-j-right"
-                    d=" M302 502
-                        V301.511
-                        H378.297
-                        L379.022 409.178
-                        C379.041 411.901 379.086 414.616 379.067 417.339
-                        C379.001 426.663 378.235 449.565 372.5 460.27
-                        C365.471 473.895 351.339 484.523 338.903 492.153
-                        C326.467 499.783 302 502 302 502Z"/>
-                        <path 
-            class="site-icon-j-left"
-            d=" M283.37 502
-                V436
-                L240.157 449.616
-                C223.403 454.895 206.343 442.384 206.343 424.817
-                V396.818
-                H129.317
-                L138.281 439.964
-                C141.046 453.269 147.244 465.62 156.259 475.788
-                V475.788
-                C171.04 492.458 192.252 502 214.531 502
-                L283.37 502Z"/>
-          </svg>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< math >, < mrow >, < mo >, < mi >, < mn >, < msup >, < msub ></b></td>
-            <td>
-              <math>
-                <mrow>
-                  <mo>E</mo>
-                  <mo>=</mo>
-                  <msub>
-                    <mi>m</mi>
-                    <mn>0</mn>
-                  </msub>
-                  <msup>
-                    <mi>c</mi>
-                    <mn>2</mn>
-                  </msup>
-                </mrow>
-              </math>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>SVG and MathML</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< svg >, < g >, < path ></b></td>
+          <td>
+            <svg 
+              class="site-icon"
+              viewBox="0 0 512 512" 
+              xmlns="http://www.w3.org/2000/svg">
+              <path 
+                  class="site-icon-w"
+                  d=" M142.079 24.0422
+                      H223.663
+                      L253.288 112.721
+                      L283.37 24.0422
+                      H364.954
+                      L310.261 161.312
+                      L336.681 220.027
+                      L403.642 10
+                      L502 10
+                      L378.297 301.511
+                      H302
+                      L253.288 208.689
+                      L206.343 379.425
+                      H129.317
+                      L10 10
+                      H105.33
+                      L173.527 220.027
+                      L195.86 161.312
+                      L142.079 24.0422Z"/>
+              <path 
+                  class="site-icon-j-right"
+                  d=" M302 502
+                      V301.511
+                      H378.297
+                      L379.022 409.178
+                      C379.041 411.901 379.086 414.616 379.067 417.339
+                      C379.001 426.663 378.235 449.565 372.5 460.27
+                      C365.471 473.895 351.339 484.523 338.903 492.153
+                      C326.467 499.783 302 502 302 502Z"/>
+                      <path 
+          class="site-icon-j-left"
+          d=" M283.37 502
+              V436
+              L240.157 449.616
+              C223.403 454.895 206.343 442.384 206.343 424.817
+              V396.818
+              H129.317
+              L138.281 439.964
+              C141.046 453.269 147.244 465.62 156.259 475.788
+              V475.788
+              C171.04 492.458 192.252 502 214.531 502
+              L283.37 502Z"/>
+        </svg>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< math >, < mrow >, < mo >, < mi >, < mn >, < msup >, < msub ></b></td>
+          <td>
+            <math>
+              <mrow>
+                <mo>E</mo>
+                <mo>=</mo>
+                <msub>
+                  <mi>m</mi>
+                  <mn>0</mn>
+                </msub>
+                <msup>
+                  <mi>c</mi>
+                  <mn>2</mn>
+                </msup>
+              </mrow>
+            </math>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Demarcating edits  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Demarcating edits</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< del ></b></td>
-            <td><del>del</del></td>
-          </tr>
-          <tr>
-            <td><b>< ins ></b></td>
-            <td><ins>ins</ins></td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Demarcating edits</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< del ></b></td>
+          <td><del>del</del></td>
+        </tr>
+        <tr>
+          <td><b>< ins ></b></td>
+          <td><ins>ins</ins></td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Tables  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Tables</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< table >, < thead >, < tbody >, < tr >, < th >, < td ></b></td>
-            <td>
-              <table>
-                <thead>
-                  <tr>
-                    <th>th</th>
-                    <th>th</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>td</td>
-                    <td>td</td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Tables</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< table >, < thead >, < tbody >, < tr >, < th >, < td ></b></td>
+          <td>
+            <table>
+              <thead>
+                <tr>
+                  <th>th</th>
+                  <th>th</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>td</td>
+                  <td>td</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Forms  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Forms</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< form >, < fieldset >, < legend >, < label >, < input >, < datalist >, < button >, < select >, < optgroup >, < option >, < textarea >, < output >, < progress >, < meter ></b></td>
-            <td>
-              <form>
-                <fieldset>
-                  <legend>legend</legend>
-                  <label for="input1">label</label>
-                  input
-                  <input
-                    id="input1"
-                    type="text"
-                    list="datalist1" />
-                  datalist
-                  <datalist id="datalist1">
-                    {{/*  <option value="Option 1"></option>
-                    <option value="Option 2"></option>  */}}
-                  </datalist>
-                  <button type="button">button</button>
-                  select
-                  <select>
-                    optgroup
-                    <optgroup label="Group 1">
-                      <option>option</option>
-                    </optgroup>
-                  </select>
-                  <textarea>textarea</textarea>
-                  <output>output</output>
-                  progress
-                  <progress
-                    value="50"
-                    max="100">
-                  </progress>
-                  meter
-                  <meter
-                    value="5"
-                    min="0"
-                    max="10">
-                  </meter>
-                </fieldset>
-              </form>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </section>
+    <table class="element-table">
+      <caption><h2>Forms</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< form >, < fieldset >, < legend >, < label >, < input >, < datalist >, < button >, < select >, < optgroup >, < option >, < textarea >, < output >, < progress >, < meter ></b></td>
+          <td>
+            <form>
+              <fieldset>
+                <legend>legend</legend>
+                <label for="input1">label</label>
+                input
+                <input
+                  id="input1"
+                  type="text"
+                  list="datalist1" />
+                datalist
+                <datalist id="datalist1">
+                  {{/*  <option value="Option 1"></option>
+                  <option value="Option 2"></option>  */}}
+                </datalist>
+                <button type="button">button</button>
+                select
+                <select>
+                  optgroup
+                  <optgroup label="Group 1">
+                    <option>option</option>
+                  </optgroup>
+                </select>
+                <textarea>textarea</textarea>
+                <output>output</output>
+                progress
+                <progress
+                  value="50"
+                  max="100">
+                </progress>
+                meter
+                <meter
+                  value="5"
+                  min="0"
+                  max="10">
+                </meter>
+              </fieldset>
+            </form>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
     {{/*  Interactive  */}}
-    <section class="test-set">
-      <table>
-        <caption><h2>Interactive elements</h2></caption>
-        <thead>
-          <th>Markup</th>
-          <th>Rendered</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>< details >, < summary ></b></td>
-            <td>
-              <details>
-                <summary>Summary</summary>
-                Details
-              </details>
-            </td>
-          </tr>
-          <tr>
-            <td><b>< dialog ></b></td>
-            <td>
-              <dialog open>
-                <p>dialog</p>
-                <form method="dialog">
-                  <button>button</button>
-                </form>
-              </dialog>
-            </td>
-          </tr>
-        </tbody>
-      </table>      
-    </section>
+    <table class="element-table">
+      <caption><h2>Interactive elements</h2></caption>
+      <thead>
+        <th>Markup</th>
+        <th>Rendered</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>< details >, < summary ></b></td>
+          <td>
+            <details>
+              <summary>Summary</summary>
+              Details
+            </details>
+          </td>
+        </tr>
+        <tr>
+          <td><b>< dialog ></b></td>
+          <td>
+            <dialog open>
+              <p>dialog</p>
+              <form method="dialog">
+                <button>button</button>
+              </form>
+            </dialog>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </section>
 </article>
 {{- end -}}

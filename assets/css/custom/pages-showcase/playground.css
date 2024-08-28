@@ -1,21 +1,78 @@
-#playground > .test-set {
-  flex: 1 1 0;
+#playground {
+  padding: unset;
+  margin: unset;
+  max-width: 100%;
+  overflow-x: auto;
 
+  .element-table {
+    flex: 1 1 0;
+
+    width: 100%;
+    background: var(--color-surface-container);
+    padding: var(--size-1);
+
+    & caption {
+      text-align: left;
+      margin-block: var(--size-20) var(--spacing-panes);
+    }
+
+    & td,
+    & th {
+      padding: var(--size-2) var(--size-4);
+    }
+
+    & td {
+      width: 50%;
+    }
+
+    & th {
+      background: var(--color-surface-container-highest);
+      border-bottom: 1px solid var(--color-outline-variant);
+      text-align: left;
+
+      color: var(--color-on-surface);
+      font-family: var(--typescale-title-large-font);
+      font-size: var(--typescale-title-large-size);
+      line-height: var(--typescale-title-large-line-height);
+      font-weight: var(--typescale-title-large-weight);
+    }
+
+    & tr:nth-of-type(2n) {
+      background: var(--color-surface-container-low);
+    }
+  }
+}
+
+.components-panel {
   display: flex;
   flex-flow: column nowrap;
+  align-items: center;
+  max-width: fit-content;
+  border-radius: var(--shape-corner-m);
+  padding: var(--spacing-panes);
+  background: var(--color-surface-container);
+  gap: var(--size-5);
+  margin: var(--size-8) auto;
 
-  padding: 2em;
-  border: 1px solid;
-  margin-bottom: 1em;
-  border-radius: 8px;
-  gap: 16px;
-  align-items: stretch;
-
-  > * {
-    width: 100%;
+  .panel-button-grid,
+  .row,
+  .column {
+    align-self: stretch;
+    gap: var(--size-4);
+    padding: var(--size-1);
   }
-
-  & h2:first-child {
-    margin-block: 0.2em 0.5em;
+  
+  .row {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .column {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
   }
 }
