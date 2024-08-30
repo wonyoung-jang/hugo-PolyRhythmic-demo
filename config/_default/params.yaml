@@ -47,6 +47,9 @@ home:
         url: /tokens
         icon: token
     resources:
+      - name: About
+        url: /about
+        icon: info
       - name: Contact
         url: /contact
         icon: contact_page
@@ -75,7 +78,6 @@ home:
       - name: Branch → Leaf
         url: /branch/leaf
         icon: potted_plant
-    taxonomies:
       - name: Example taxonomy
         url: /example_taxonomies/
         icon: atr
