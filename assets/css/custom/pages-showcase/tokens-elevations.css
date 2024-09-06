@@ -5,16 +5,11 @@
   gap: var(--size-2);
   margin: var(--spacing-panes);
 
-  & h2 {
-    grid-column: 1 / -1;
-  }
-
-  & div {
-    position: relative;
+  [class*="elevation"] {
     display: flex;
     flex-flow: column nowrap;
     padding: var(--spacing-panes);
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
   }
 }

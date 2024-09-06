@@ -11,11 +11,10 @@
       open>
       <summary class="showcase-tokens-title">Elevations</summary>
       <section class="elevations-container">
-        {{ $surfaces := "-lowest -low  -high -highest" }}
-        {{ $surfaces := split $surfaces " " }}
-        {{ range $i, $surface := $surfaces }}
-          <div class="component surface-container{{ $surface }} elevation{{ add $i 1 }}">
-            {{ add $i 1 }}
+        {{ $elevations := slice "1" "2" "3" "4" "5" }}
+        {{ range $elevations }}
+          <div class="component surface-container elevation{{ . }}">
+            <h4>{{ . }}</h4>
           </div>
         {{ end }}
       </section>
