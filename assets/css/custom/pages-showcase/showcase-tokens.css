@@ -30,11 +30,11 @@
     font-weight: var(--typescale-headline-small-weight);
     line-height: var(--typescale-headline-small-line-height);
     color: var(--color-on-surface);
-    background-color: var(--color-surface-container-high);
+    background: var(--color-surface-container-low);
     box-shadow: var(--elevation2);
     
     &:hover {
-      background-color: var(--color-surface-container-highest);
+      background: var(--color-surface-container);
       box-shadow: var(--elevation3);
     }
   }
@@ -65,11 +65,11 @@
 
   &[open] {
     .showcase-tokens-title {
-      background-color: var(--color-surface-container-low);
+      background: var(--color-surface-container-high);
       box-shadow: var(--elevation0);
       
       &:hover {
-        background-color: var(--color-surface-container);
+        background: var(--color-surface-container-highest);
         box-shadow: var(--elevation1);
       }
     }
