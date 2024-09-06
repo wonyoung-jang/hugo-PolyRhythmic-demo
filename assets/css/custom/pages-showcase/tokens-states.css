@@ -1,24 +1,25 @@
 .state-opacities-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--size-2);
+  grid-template-columns: fit-content(10%) 1fr;
+  gap: var(--size-3);
   margin: var(--spacing-panes);
-  grid-auto-rows: minmax(var(--size-24), auto);
+  padding: var(--spacing-panes);
+  border-radius: var(--shape-corner-m);
+  background: var(--color-surface-container-lowest);
 
   & div,
   & span {
+    border-radius: inherit;
     padding: var(--spacing-panes);
   }
 
   & span {
     text-align: right;
-    border: 2px dotted var(--color-outline-variant);
-    border-radius: var(--shape-corner-xl-end);
+    background: var(--color-surface-container);
   }
 
   & div {
-    background-color: var(--color-surface);
+    background: var(--color-surface-container-high);
     color: var(--color-on-surface);
-    border-radius: var(--shape-corner-xl-start);
   }
 }
