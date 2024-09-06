@@ -1,7 +1,8 @@
 .key-color {
-  background-color: var(--palette-primary-60);
-  height: var(--size-16);
-  width: 100%;
+  background-color: var(--palette-primary-50);
+  height: var(--size-12);
+  border-radius: var(--shape-corner-full);
+  margin: var(--size-5);
 }
 
 .sys-tokens {
