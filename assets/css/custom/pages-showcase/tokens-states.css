@@ -1,0 +1,24 @@
+.state-opacities-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--size-2);
+  margin: var(--spacing-panes);
+  grid-auto-rows: minmax(var(--size-24), auto);
+
+  & div,
+  & span {
+    padding: var(--spacing-panes);
+  }
+
+  & span {
+    text-align: right;
+    border: 2px dotted var(--color-outline-variant);
+    border-radius: var(--shape-corner-xl-end);
+  }
+
+  & div {
+    background-color: var(--color-surface);
+    color: var(--color-on-surface);
+    border-radius: var(--shape-corner-xl-start);
+  }
+}
