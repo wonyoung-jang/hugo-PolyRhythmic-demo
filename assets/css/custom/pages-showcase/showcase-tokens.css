@@ -61,6 +61,17 @@
     &:hover {
       cursor: pointer;
     }
+  
+    ~ .showcase-tokens {
+      padding-left: var(--spacing-panes);
+
+      .showcase-tokens-title {
+        font-family: var(--typescale-title-large-font);
+        font-size: var(--typescale-title-large-size);
+        font-weight: var(--typescale-title-large-weight);
+        line-height: var(--typescale-title-large-line-height);
+      }
+    }
   }
 
   &[open] {
