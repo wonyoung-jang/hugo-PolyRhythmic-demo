@@ -16,7 +16,8 @@
  &lt;/a>
  
 &lt;/h2>
-&lt;p>In my journey in computer science, web development is one area that I never really bothered to take a deeper look at. I&amp;rsquo;ve always found it more unrewarding and unintuitive at the beginner level than other areas.&lt;/p></description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>&lt;h2 id="non-functional-contact-form">
+&lt;p>In my journey in computer science, web development is one area that I never really bothered to take a deeper look at. I&amp;rsquo;ve always found it more unrewarding and unintuitive at the beginner level than other areas.&lt;/p>
+&lt;p>A common thread across the beginner to intermediate advice I came across was to implement something that is already designed. This is similar to how sound designers can learn by emulating other sounds.&lt;/p></description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>&lt;h2 id="non-functional-contact-form">
 
  Non functional contact form:
 
@@ -629,7 +630,47 @@
  &lt;/a>
  
 &lt;/h2>
-&lt;p>&lt;strong>Random page roulette&lt;/strong>: Feeling adventurous? Hit the random page button in the top bar.&lt;/p></description></item><item><title>Default content archetype</title><link>https://polyrhythmic.xyz/default-content-archetype/</link><pubDate>Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/default-content-archetype/</guid><description>&lt;p>Inside content folder directly.&lt;/p>
+&lt;p>&lt;strong>Random page roulette&lt;/strong>: Feeling adventurous? Hit the random page button in the top bar.&lt;/p>
+&lt;p>&lt;strong>Light/dark mode toggle&lt;/strong>: Toggle between day and night modes.&lt;/p>
+&lt;h3 id="full-theme-control">
+
+ Full theme control
+
+ &lt;a 
+ class="anchor"
+ href="#full-theme-control">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;p>Unlike Material Design&amp;rsquo;s specs, I allow customizing the temperature direction of tertiary colors, the roundedness of shape corners, and various font stylings.&lt;/p>
+&lt;p>Access the theme control panel in the top bar.&lt;/p>
+&lt;h4 id="colors">
+
+ Colors
+
+ &lt;a 
+ class="anchor"
+ href="#colors">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;p>&lt;strong>Key hue:&lt;/strong> Pick an input color hue.&lt;/p></description></item><item><title>Default content archetype</title><link>https://polyrhythmic.xyz/default-content-archetype/</link><pubDate>Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/default-content-archetype/</guid><description>&lt;p>Inside content folder directly.&lt;/p>
 &lt;p>Blank default content archetype&lt;/p></description></item><item><title>Branch → leaf</title><link>https://polyrhythmic.xyz/branch/leaf/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/branch/leaf/</guid><description>&lt;p>Leaf-bundle inside a branch-bundle&lt;/p>
 &lt;p>Blank leaf bundle content archetype&lt;/p></description></item><item><title>Leaf page</title><link>https://polyrhythmic.xyz/leaf-page/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/leaf-page/</guid><description>&lt;p>Leaf-bundle&lt;/p>
 &lt;p>Blank leaf bundle content archetype&lt;/p></description></item><item><title>PolyRhythmic shortcodes</title><link>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</link><pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</guid><description>&lt;h2 id="mark-text-highlight">
@@ -652,7 +693,41 @@
 &lt;/h2>
 &lt;mark class="highlight-text">This is a mark&lt;/mark>
 
-&lt;p>&lt;code>{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}&lt;/code>&lt;/p></description></item><item><title>Action</title><link>https://polyrhythmic.xyz/components/action/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/action/</guid><description>&lt;figure 
+&lt;p>&lt;code>{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}&lt;/code>&lt;/p>
+&lt;h2 id="admonitions">
+
+ Admonitions
+
+ &lt;a 
+ class="anchor"
+ href="#admonitions">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;p>See: &lt;a 
+ href="https://docs.logseq.com/#/page/advanced%20commands?anchor=ls-block-66670363-773f-4f4e-992f-9b706c2f7985"target="_blank"
+ rel="external noopener noreferrer me">Logseq documentation - Advanced commands&lt;/a>
+&lt;/p>
+&lt;blockquote class="admonition warning-container">
+ &lt;i class="icon">warning&lt;/i>This is a warning&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&lt;/code>&lt;/p>
+&lt;blockquote class="admonition caution-container">
+ &lt;i class="icon">error&lt;/i>This is a sign of caution&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}&lt;/code>&lt;/p>
+&lt;blockquote class="admonition important-container">
+ &lt;i class="icon">stars&lt;/i>This is important&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}&lt;/code>&lt;/p></description></item><item><title>Action</title><link>https://polyrhythmic.xyz/components/action/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/action/</guid><description>&lt;figure 
  id="cover-image">
  
  &lt;img
