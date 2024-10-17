@@ -1,6 +1,5 @@
 ---
-date:
-- 2024-08-20 Tuesday
+date: 2024-08-20
 lastMod: 2024-08-20
 title: PolyRhythmic.xyz
 ---

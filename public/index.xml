@@ -1,12 +1,1002 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PolyRhythmic.xyz on PolyRhythmic</title><link>https://polyrhythmic.xyz/</link><description>Recent content in PolyRhythmic.xyz on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Thu, 29 Aug 2024 12:04:01 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://polyrhythmic.xyz/about/</link><pubDate>Thu, 29 Aug 2024 11:46:57 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/about/</guid><description>Confession: I never liked web developmentlinkh2In my journey in computer science, web development is one area that I never really bothered to take a deeper look at. I&amp;rsquo;ve always found it more unrewarding and unintuitive at the beginner level than other areas.
-A common thread across the beginner to intermediate advice I came across was to implement something that is already designed. This is similar to how sound designers can learn by emulating other sounds.</description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>Non functional contact form:linkh2</description></item><item><title>Keyboard shortcuts</title><link>https://polyrhythmic.xyz/keyboard-shortcuts/</link><pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/keyboard-shortcuts/</guid><description> Windowslinkh2Firefoxlinkh3Appearancelinkh4ALT + SHIFT + t → Toggle light/dark themes ALT + SHIFT + c → Open theme controls modal Navigationlinkh4ALT + SHIFT + g → Go back to top ALT + SHIFT + h → Go to home page ALT + SHIFT + r → Go to random page ALT + SHIFT + p → Go to previous page ALT + SHIFT + n → Go to next page Edge, Chrome, Opera 15+linkh3Appearancelinkh4ALT + t → Toggle light/dark themes ALT + c → Open theme controls modal Navigationlinkh4ALT + g → Go back to top ALT + h → Go to home page ALT + r → Go to random page ALT + p → Go to previous page ALT + n → Go to next page Linuxlinkh2Firefoxlinkh3Appearancelinkh4ALT + SHIFT + t → Toggle light/dark themes ALT + SHIFT + c → Open theme controls modal Navigationlinkh4ALT + SHIFT + g → Go back to top ALT + SHIFT + h → Go to home page ALT + SHIFT + r → Go to random page ALT + SHIFT + p → Go to previous page ALT + SHIFT + n → Go to next page Edge, Chromelinkh3Appearancelinkh4CONTROL + OPTION + t → Toggle light/dark themes CONTROL + OPTION + c → Open theme controls modal Navigationlinkh4CONTROL + OPTION + g → Go back to top CONTROL + OPTION + h → Go to home page CONTROL + OPTION + r → Go to random page CONTROL + OPTION + p → Go to previous page CONTROL + OPTION + n → Go to next page Opera 15+linkh3Appearancelinkh4ALT + t → Toggle light/dark themes ALT + c → Open theme controls modal Navigationlinkh4ALT + g → Go back to top ALT + h → Go to home page ALT + r → Go to random page ALT + p → Go to previous page ALT + n → Go to next page Maclinkh2Firefox, Chrome, Safarilinkh3Appearancelinkh4CONTROL + OPTION + t → Toggle light/dark themes CONTROL + OPTION + c → Open theme controls modal Navigationlinkh4CONTROL + OPTION + g → Go back to top CONTROL + OPTION + h → Go to home page CONTROL + OPTION + r → Go to random page CONTROL + OPTION + p → Go to previous page CONTROL + OPTION + n → Go to next page Opera 15+linkh3Appearancelinkh4CONTROL + ALT + t → Toggle light/dark themes CONTROL + ALT + c → Open theme controls modal Navigationlinkh4CONTROL + ALT + g → Go back to top CONTROL + ALT + h → Go to home page CONTROL + ALT + r → Go to random page CONTROL + ALT + p → Go to previous page CONTROL + ALT + n → Go to next page</description></item><item><title>Page with example_taxonomy</title><link>https://polyrhythmic.xyz/page-with-example_taxonomy/</link><pubDate>Sat, 17 Aug 2024 19:40:13 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/page-with-example_taxonomy/</guid><description>Blank default content archetype with example_taxonomy/example_term</description></item><item><title>Documentation</title><link>https://polyrhythmic.xyz/documentation/</link><pubDate>Sat, 17 Aug 2024 12:21:16 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/documentation/</guid><description>Things to dolinkh2Random page roulette: Feeling adventurous? Hit the random page button in the top bar.
-Light/dark mode toggle: Toggle between day and night modes.
-Full theme controllinkh3Unlike Material Design&amp;rsquo;s specs, I allow customizing the temperature direction of tertiary colors, the roundedness of shape corners, and various font stylings.
-Access the theme control panel in the top bar.
-Colorslinkh4Key hue: Pick an input color hue.</description></item><item><title>Default content archetype</title><link>https://polyrhythmic.xyz/default-content-archetype/</link><pubDate>Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/default-content-archetype/</guid><description>Inside content folder directly.
-Blank default content archetype</description></item><item><title>Branch → leaf</title><link>https://polyrhythmic.xyz/branch/leaf/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/branch/leaf/</guid><description>Leaf-bundle inside a branch-bundle
-Blank leaf bundle content archetype</description></item><item><title>Leaf page</title><link>https://polyrhythmic.xyz/leaf-page/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/leaf-page/</guid><description>Leaf-bundle
-Blank leaf bundle content archetype</description></item><item><title>PolyRhythmic shortcodes</title><link>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</link><pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</guid><description>Mark (text highlight)linkh2This is a mark{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}
-Admonitionslinkh2See: Logseq documentation - Advanced commandswarningThis is a warning{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}
-errorThis is a sign of caution{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}
-starsThis is important{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}</description></item><item><title>Action</title><link>https://polyrhythmic.xyz/components/action/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/action/</guid><description>See: Material Design 3 - Components</description></item><item><title>Archives</title><link>https://polyrhythmic.xyz/archives/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/archives/</guid><description/></item><item><title>Color</title><link>https://polyrhythmic.xyz/tokens/color/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/color/</guid><description>See: Material Design 3 - Colors</description></item><item><title>Communication</title><link>https://polyrhythmic.xyz/components/communication/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/communication/</guid><description>See: Material Design 3 - Components</description></item><item><title>Containment</title><link>https://polyrhythmic.xyz/components/containment/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/containment/</guid><description>See: Material Design 3 - Components</description></item><item><title>Elevation</title><link>https://polyrhythmic.xyz/tokens/elevation/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/elevation/</guid><description>See: Material Design 3 - Elevation</description></item><item><title>Feed layout</title><link>https://polyrhythmic.xyz/layouts/feed-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/feed-layout/</guid><description>See: Material Design 3 - Canonical layouts - Feed</description></item><item><title>Fixed and flexible layout</title><link>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>List-detail layout</title><link>https://polyrhythmic.xyz/layouts/list-detail-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/list-detail-layout/</guid><description>See: Material Design 3 - Canonical layouts - List-detail</description></item><item><title>Motion</title><link>https://polyrhythmic.xyz/tokens/motion/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/motion/</guid><description>See: Material Design 3 - Motion</description></item><item><title>Navigation</title><link>https://polyrhythmic.xyz/components/navigation/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/navigation/</guid><description>See: Material Design 3 - Components</description></item><item><title>Playground</title><link>https://polyrhythmic.xyz/playground/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/playground/</guid><description/></item><item><title>Search</title><link>https://polyrhythmic.xyz/search/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/search/</guid><description/></item><item><title>Selection</title><link>https://polyrhythmic.xyz/components/selection/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/selection/</guid><description>See: Material Design 3 - Components</description></item><item><title>Shape</title><link>https://polyrhythmic.xyz/tokens/shape/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/shape/</guid><description>See: Material Design 3 - Shapes</description></item><item><title>Single pane layout</title><link>https://polyrhythmic.xyz/layouts/single-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/single-pane-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>Sitemap</title><link>https://polyrhythmic.xyz/sitemap/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/sitemap/</guid><description/></item><item><title>Split-pane layout</title><link>https://polyrhythmic.xyz/layouts/split-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/split-pane-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>State</title><link>https://polyrhythmic.xyz/tokens/state/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/state/</guid><description>See: Material Design 3 - States</description></item><item><title>Supporting pane layout</title><link>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</guid><description>See: Material Design 3 - Canonical layouts - Supporting pane</description></item><item><title>Text input</title><link>https://polyrhythmic.xyz/components/text-input/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/text-input/</guid><description>See: Material Design 3 - Components</description></item><item><title>Typography</title><link>https://polyrhythmic.xyz/tokens/typography/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/typography/</guid><description>See: Material Design 3 - Typography</description></item><item><title>Test</title><link>https://polyrhythmic.xyz/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/test/</guid><description>Blank default content archetype Add test content Update test</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PolyRhythmic.xyz on PolyRhythmic</title><link>https://polyrhythmic.xyz/</link><description>Recent content in PolyRhythmic.xyz on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Thu, 29 Aug 2024 12:04:01 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://polyrhythmic.xyz/about/</link><pubDate>Thu, 29 Aug 2024 11:46:57 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/about/</guid><description>&lt;h2 id="confession-i-never-liked-web-development">
+
+ Confession: I never liked web development
+
+ &lt;a 
+ class="anchor"
+ href="#confession-i-never-liked-web-development">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;p>In my journey in computer science, web development is one area that I never really bothered to take a deeper look at. I&amp;rsquo;ve always found it more unrewarding and unintuitive at the beginner level than other areas.&lt;/p>
+&lt;p>A common thread across the beginner to intermediate advice I came across was to implement something that is already designed. This is similar to how sound designers can learn by emulating other sounds.&lt;/p></description></item><item><title>Test</title><link>https://polyrhythmic.xyz/test/</link><pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/test/</guid><description>&lt;p>Blank default content archetype
+Add test content
+Update test&lt;/p></description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>&lt;h2 id="non-functional-contact-form">
+
+ Non functional contact form:
+
+ &lt;a 
+ class="anchor"
+ href="#non-functional-contact-form">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2></description></item><item><title>Keyboard shortcuts</title><link>https://polyrhythmic.xyz/keyboard-shortcuts/</link><pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/keyboard-shortcuts/</guid><description>&lt;ul>
+&lt;li>
+&lt;h2 id="windows">
+
+ Windows
+
+ &lt;a 
+ class="anchor"
+ href="#windows">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="firefox">
+
+ Firefox
+
+ &lt;a 
+ class="anchor"
+ href="#firefox">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="edge-chrome-opera-15">
+
+ Edge, Chrome, Opera 15+
+
+ &lt;a 
+ class="anchor"
+ href="#edge-chrome-opera-15">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-1">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-1">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-1">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-1">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="linux">
+
+ Linux
+
+ &lt;a 
+ class="anchor"
+ href="#linux">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="firefox-1">
+
+ Firefox
+
+ &lt;a 
+ class="anchor"
+ href="#firefox-1">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-2">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-2">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-2">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-2">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>SHIFT&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="edge-chrome">
+
+ Edge, Chrome
+
+ &lt;a 
+ class="anchor"
+ href="#edge-chrome">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-3">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-3">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-3">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-3">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="opera-15">
+
+ Opera 15+
+
+ &lt;a 
+ class="anchor"
+ href="#opera-15">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-4">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-4">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-4">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-4">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>ALT&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="mac">
+
+ Mac
+
+ &lt;a 
+ class="anchor"
+ href="#mac">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;h3 id="firefox-chrome-safari">
+
+ Firefox, Chrome, Safari
+
+ &lt;a 
+ class="anchor"
+ href="#firefox-chrome-safari">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-5">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-5">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-5">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-5">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>OPTION&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h3 id="opera-15-1">
+
+ Opera 15+
+
+ &lt;a 
+ class="anchor"
+ href="#opera-15-1">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;h4 id="appearance-6">
+
+ Appearance
+
+ &lt;a 
+ class="anchor"
+ href="#appearance-6">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>t&lt;/code> → Toggle light/dark themes&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>c&lt;/code> → Open theme controls modal&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h4 id="navigation-6">
+
+ Navigation
+
+ &lt;a 
+ class="anchor"
+ href="#navigation-6">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>g&lt;/code> → Go back to top&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>h&lt;/code> → Go to home page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>r&lt;/code> → Go to random page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>p&lt;/code> → Go to previous page&lt;/li>
+&lt;li>&lt;code>CONTROL&lt;/code> + &lt;code>ALT&lt;/code> + &lt;code>n&lt;/code> → Go to next page&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Page with example_taxonomy</title><link>https://polyrhythmic.xyz/page-with-example_taxonomy/</link><pubDate>Sat, 17 Aug 2024 19:40:13 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/page-with-example_taxonomy/</guid><description>&lt;p>Blank default content archetype with example_taxonomy/example_term&lt;/p></description></item><item><title>Documentation</title><link>https://polyrhythmic.xyz/documentation/</link><pubDate>Sat, 17 Aug 2024 12:21:16 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/documentation/</guid><description>&lt;h2 id="things-to-do">
+
+ Things to do
+
+ &lt;a 
+ class="anchor"
+ href="#things-to-do">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;p>&lt;strong>Random page roulette&lt;/strong>: Feeling adventurous? Hit the random page button in the top bar.&lt;/p>
+&lt;p>&lt;strong>Light/dark mode toggle&lt;/strong>: Toggle between day and night modes.&lt;/p>
+&lt;h3 id="full-theme-control">
+
+ Full theme control
+
+ &lt;a 
+ class="anchor"
+ href="#full-theme-control">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h3
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h3>
+&lt;p>Unlike Material Design&amp;rsquo;s specs, I allow customizing the temperature direction of tertiary colors, the roundedness of shape corners, and various font stylings.&lt;/p>
+&lt;p>Access the theme control panel in the top bar.&lt;/p>
+&lt;h4 id="colors">
+
+ Colors
+
+ &lt;a 
+ class="anchor"
+ href="#colors">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h4
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h4>
+&lt;p>&lt;strong>Key hue:&lt;/strong> Pick an input color hue.&lt;/p></description></item><item><title>Default content archetype</title><link>https://polyrhythmic.xyz/default-content-archetype/</link><pubDate>Fri, 16 Aug 2024 18:53:54 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/default-content-archetype/</guid><description>&lt;p>Inside content folder directly.&lt;/p>
+&lt;p>Blank default content archetype&lt;/p></description></item><item><title>Branch → leaf</title><link>https://polyrhythmic.xyz/branch/leaf/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/branch/leaf/</guid><description>&lt;p>Leaf-bundle inside a branch-bundle&lt;/p>
+&lt;p>Blank leaf bundle content archetype&lt;/p></description></item><item><title>Leaf page</title><link>https://polyrhythmic.xyz/leaf-page/</link><pubDate>Fri, 16 Aug 2024 18:43:49 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/leaf-page/</guid><description>&lt;p>Leaf-bundle&lt;/p>
+&lt;p>Blank leaf bundle content archetype&lt;/p></description></item><item><title>PolyRhythmic shortcodes</title><link>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</link><pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/polyrhythmic-shortcodes/</guid><description>&lt;h2 id="mark-text-highlight">
+
+ Mark (text highlight)
+
+ &lt;a 
+ class="anchor"
+ href="#mark-text-highlight">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;mark class="highlight-text">This is a mark&lt;/mark>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/mark &amp;gt;}} This is a mark {{&amp;lt; / logseq/mark &amp;gt;}}&lt;/code>&lt;/p>
+&lt;h2 id="admonitions">
+
+ Admonitions
+
+ &lt;a 
+ class="anchor"
+ href="#admonitions">
+
+ &lt;i class="icon">
+ link
+ &lt;/i>
+ 
+ &lt;span>
+ h2
+ &lt;/span>
+ &lt;/a>
+ 
+&lt;/h2>
+&lt;p>See: &lt;a 
+ href="https://docs.logseq.com/#/page/advanced%20commands?anchor=ls-block-66670363-773f-4f4e-992f-9b706c2f7985"target="_blank"
+ rel="external noopener noreferrer me">Logseq documentation - Advanced commands&lt;/a>
+&lt;/p>
+&lt;blockquote class="admonition warning-container">
+ &lt;i class="icon">warning&lt;/i>This is a warning&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgWARNING &amp;gt;}} This is a warning {{&amp;lt; / logseq/orgWARNING &amp;gt;}}&lt;/code>&lt;/p>
+&lt;blockquote class="admonition caution-container">
+ &lt;i class="icon">error&lt;/i>This is a sign of caution&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgCAUTION &amp;gt;}} This is a sign of caution {{&amp;lt; / logseq/orgCAUTION &amp;gt;}}&lt;/code>&lt;/p>
+&lt;blockquote class="admonition important-container">
+ &lt;i class="icon">stars&lt;/i>This is important&lt;/blockquote>
+
+&lt;p>&lt;code>{{&amp;lt; logseq/orgIMPORTANT &amp;gt;}} This is important {{&amp;lt; / logseq/orgIMPORTANT &amp;gt;}}&lt;/code>&lt;/p></description></item><item><title>Action</title><link>https://polyrhythmic.xyz/components/action/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/action/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/actions_1721246174666_0.webp
+ "
+ alt="actions.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Archives</title><link>https://polyrhythmic.xyz/archives/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/archives/</guid><description/></item><item><title>Color</title><link>https://polyrhythmic.xyz/tokens/color/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/color/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/tokens-colors_1722025217954_0.webp
+ "
+ alt="tokens-colors.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/styles/color/system/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Colors&lt;/a>
+&lt;/p></description></item><item><title>Communication</title><link>https://polyrhythmic.xyz/components/communication/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/communication/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/communication_1721246145910_0.webp
+ "
+ alt="communication.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Containment</title><link>https://polyrhythmic.xyz/components/containment/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/containment/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/containment_1721246195262_0.webp
+ "
+ alt="containment.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Elevation</title><link>https://polyrhythmic.xyz/tokens/elevation/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/elevation/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/tokens-elevations_1722025249860_0.webp
+ "
+ alt="tokens-elevations.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/styles/elevation/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Elevation&lt;/a>
+&lt;/p></description></item><item><title>Feed layout</title><link>https://polyrhythmic.xyz/layouts/feed-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/feed-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-feed_1722025574088_0.webp
+ "
+ alt="layout-feed.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/feed"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - Feed&lt;/a>
+&lt;/p></description></item><item><title>Fixed and flexible layout</title><link>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-fixed-flex_1722025554429_0.webp
+ "
+ alt="layout-fixed-flex.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>List-detail layout</title><link>https://polyrhythmic.xyz/layouts/list-detail-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/list-detail-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-list-detail_1722025614741_0.webp
+ "
+ alt="layout-list-detail.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/list-detail"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - List-detail&lt;/a>
+&lt;/p></description></item><item><title>Motion</title><link>https://polyrhythmic.xyz/tokens/motion/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/motion/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/tokens-motions_1722025271714_0.webp
+ "
+ alt="tokens-motions.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/styles/motion/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Motion&lt;/a>
+&lt;/p></description></item><item><title>Navigation</title><link>https://polyrhythmic.xyz/components/navigation/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/navigation/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/navigation_1721246328721_0.webp
+ "
+ alt="navigation.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Playground</title><link>https://polyrhythmic.xyz/playground/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/playground/</guid><description/></item><item><title>Search</title><link>https://polyrhythmic.xyz/search/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/search/</guid><description/></item><item><title>Selection</title><link>https://polyrhythmic.xyz/components/selection/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/selection/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/selections_1721246316916_0.webp
+ "
+ alt="selections.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Shape</title><link>https://polyrhythmic.xyz/tokens/shape/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/shape/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/tokens-shapes_1722025292659_0.webp
+ "
+ alt="tokens-shapes.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/styles/shape/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Shapes&lt;/a>
+&lt;/p></description></item><item><title>Single pane layout</title><link>https://polyrhythmic.xyz/layouts/single-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/single-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-single-pane_1722025598079_0.webp
+ "
+ alt="layout-single-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>Sitemap</title><link>https://polyrhythmic.xyz/sitemap/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/sitemap/</guid><description/></item><item><title>Split-pane layout</title><link>https://polyrhythmic.xyz/layouts/split-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/split-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-split-pane_1722025647494_0.webp
+ "
+ alt="layout-split-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>State</title><link>https://polyrhythmic.xyz/tokens/state/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/state/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/states_1721309641312_0.webp
+ "
+ alt="states.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/interaction/states/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - States&lt;/a>
+&lt;/p></description></item><item><title>Supporting pane layout</title><link>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-supporting-pane_1722025702528_0.webp
+ "
+ alt="layout-supporting-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/supporting-pane"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - Supporting pane&lt;/a>
+&lt;/p></description></item><item><title>Text input</title><link>https://polyrhythmic.xyz/components/text-input/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/components/text-input/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/text-inputs_1721246304147_0.webp
+ "
+ alt="text-inputs.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/components"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Components&lt;/a>
+&lt;/p></description></item><item><title>Typography</title><link>https://polyrhythmic.xyz/tokens/typography/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/tokens/typography/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/tokens-typography_1722025324948_0.webp
+ "
+ alt="tokens-typography.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/styles/typography/overview"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Typography&lt;/a>
+&lt;/p></description></item></channel></rss>

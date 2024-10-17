@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Layouts on PolyRhythmic</title><link>https://polyrhythmic.xyz/layouts/</link><description>Recent content in Layouts on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Sat, 17 Aug 2024 15:38:49 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/layouts/index.xml" rel="self" type="application/rss+xml"/><item><title>Feed layout</title><link>https://polyrhythmic.xyz/layouts/feed-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/feed-layout/</guid><description>See: Material Design 3 - Canonical layouts - Feed</description></item><item><title>Fixed and flexible layout</title><link>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>List-detail layout</title><link>https://polyrhythmic.xyz/layouts/list-detail-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/list-detail-layout/</guid><description>See: Material Design 3 - Canonical layouts - List-detail</description></item><item><title>Single pane layout</title><link>https://polyrhythmic.xyz/layouts/single-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/single-pane-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>Split-pane layout</title><link>https://polyrhythmic.xyz/layouts/split-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/split-pane-layout/</guid><description>See: Material Design 3 - Layout basics - Parts of layout</description></item><item><title>Supporting pane layout</title><link>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</guid><description>See: Material Design 3 - Canonical layouts - Supporting pane</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Layouts on PolyRhythmic</title><link>https://polyrhythmic.xyz/layouts/</link><description>Recent content in Layouts on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Sat, 17 Aug 2024 15:38:49 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/layouts/index.xml" rel="self" type="application/rss+xml"/><item><title>Feed layout</title><link>https://polyrhythmic.xyz/layouts/feed-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/feed-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-feed_1722025574088_0.webp
+ "
+ alt="layout-feed.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/feed"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - Feed&lt;/a>
+&lt;/p></description></item><item><title>Fixed and flexible layout</title><link>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/fixed-and-flexible-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-fixed-flex_1722025554429_0.webp
+ "
+ alt="layout-fixed-flex.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>List-detail layout</title><link>https://polyrhythmic.xyz/layouts/list-detail-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/list-detail-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-list-detail_1722025614741_0.webp
+ "
+ alt="layout-list-detail.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/list-detail"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - List-detail&lt;/a>
+&lt;/p></description></item><item><title>Single pane layout</title><link>https://polyrhythmic.xyz/layouts/single-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/single-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-single-pane_1722025598079_0.webp
+ "
+ alt="layout-single-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>Split-pane layout</title><link>https://polyrhythmic.xyz/layouts/split-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/split-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-split-pane_1722025647494_0.webp
+ "
+ alt="layout-split-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/understanding-layout/parts-of-layout"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Layout basics - Parts of layout&lt;/a>
+&lt;/p></description></item><item><title>Supporting pane layout</title><link>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/layouts/supporting-pane-layout/</guid><description>&lt;figure 
+ id="cover-image">
+ 
+ &lt;img
+ loading="lazy"
+ src=" 
+ 
+ https://polyrhythmic.xyz/images/layout-supporting-pane_1722025702528_0.webp
+ "
+ alt="layout-supporting-pane.webp">&lt;/figure>
+ 
+
+&lt;p>See: &lt;a 
+ href="https://m3.material.io/foundations/layout/canonical-layouts/supporting-pane"target="_blank"
+ rel="external noopener noreferrer me">Material Design 3 - Canonical layouts - Supporting pane&lt;/a>
+&lt;/p></description></item></channel></rss>
