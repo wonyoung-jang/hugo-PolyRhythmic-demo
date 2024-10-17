@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PolyRhythmic.xyz on PolyRhythmic</title><link>https://polyrhythmic.xyz/</link><description>Recent content in PolyRhythmic.xyz on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Thu, 29 Aug 2024 12:04:01 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://polyrhythmic.xyz/about/</link><pubDate>Thu, 29 Aug 2024 11:46:57 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/about/</guid><description>&lt;h2 id="confession-i-never-liked-web-development">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PolyRhythmic.xyz on PolyRhythmic</title><link>https://polyrhythmic.xyz/</link><description>Recent content in PolyRhythmic.xyz on PolyRhythmic</description><generator>Hugo</generator><language>en-US</language><managingEditor>contact@wonyoungjang.org (Wonyoung Jang)</managingEditor><webMaster>contact@wonyoungjang.org (Wonyoung Jang)</webMaster><copyright>&lt;!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).&lt;!--/Creative Commons License--></copyright><lastBuildDate>Thu, 17 Oct 2024 14:22:58 -0400</lastBuildDate><atom:link href="https://polyrhythmic.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://polyrhythmic.xyz/about/</link><pubDate>Thu, 29 Aug 2024 11:46:57 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/about/</guid><description>&lt;h2 id="confession-i-never-liked-web-development">
 
  Confession: I never liked web development
 
@@ -17,7 +17,9 @@
  
 &lt;/h2>
 &lt;p>In my journey in computer science, web development is one area that I never really bothered to take a deeper look at. I&amp;rsquo;ve always found it more unrewarding and unintuitive at the beginner level than other areas.&lt;/p>
-&lt;p>A common thread across the beginner to intermediate advice I came across was to implement something that is already designed. This is similar to how sound designers can learn by emulating other sounds.&lt;/p></description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>&lt;h2 id="non-functional-contact-form">
+&lt;p>A common thread across the beginner to intermediate advice I came across was to implement something that is already designed. This is similar to how sound designers can learn by emulating other sounds.&lt;/p></description></item><item><title>Test</title><link>https://polyrhythmic.xyz/test/</link><pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/test/</guid><description>&lt;p>Blank default content archetype
+Add test content
+Update test&lt;/p></description></item><item><title>Contact</title><link>https://polyrhythmic.xyz/contact/</link><pubDate>Sat, 17 Aug 2024 20:13:53 -0400</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/contact/</guid><description>&lt;h2 id="non-functional-contact-form">
 
  Non functional contact form:
 
@@ -997,6 +999,4 @@
 &lt;p>See: &lt;a 
  href="https://m3.material.io/styles/typography/overview"target="_blank"
  rel="external noopener noreferrer me">Material Design 3 - Typography&lt;/a>
-&lt;/p></description></item><item><title>Test</title><link>https://polyrhythmic.xyz/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>contact@wonyoungjang.org (Wonyoung Jang)</author><guid>https://polyrhythmic.xyz/test/</guid><description>&lt;p>Blank default content archetype
-Add test content
-Update test&lt;/p></description></item></channel></rss>
+&lt;/p></description></item></channel></rss>
