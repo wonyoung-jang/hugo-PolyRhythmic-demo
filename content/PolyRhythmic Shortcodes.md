@@ -83,3 +83,29 @@ See: [Logseq documentation - Advanced commands](https://docs.logseq.com/#/page/a
   {{< / logseq/orgQUOTE >}}
 
 `{{</* logseq/orgQUOTE >}}  This is a quote  {{< / logseq/orgQUOTE */>}}`
+
+{{< actions/button_common icon="lightbulb" >}}Text
+{{< / actions/button_common >}}
+
+{{< actions/button_common icon="lightbulb" disabled="disabled" >}}Text Disabled
+{{< / actions/button_common >}}
+
+{{< actions/button_common icon="lightbulb" type="elevated">}}Elevated
+{{< / actions/button_common >}}
+
+{{< actions/button_common icon="lightbulb" type="filled" href="https://polyrhythmic.xyz" >}}Filled link
+{{< / actions/button_common >}}
+
+{{< actions/button_fab icon="lightbulb" class="primary-container" size="large" >}}FAB
+{{< / actions/button_fab >}}
+
+{{< actions/button_fab icon="lightbulb" class="secondary-container" size="extended" >}}FAB
+{{< / actions/button_fab >}}
+
+{{< actions/button_icon icon="lightbulb" type="tonal" >}}
+
+{{< actions/button_icon icon="lightbulb" type="filled" href="https://polyrhythmic.xyz" >}}
+
+{{< actions/button_segmented name="exampleName" type="radio" buttons="[ {\"id\": \"btn1\", \"value\": \"1\", \"label\": \"Option 1\", \"checked\": \"checked\"}, {\"id\": \"btn2\", \"value\": \"2\", \"label\": \"Option 2\"} ]" >}}
+
+{{< selections/checkboxes >}}A checkbox{{< / selections/checkboxes >}}
