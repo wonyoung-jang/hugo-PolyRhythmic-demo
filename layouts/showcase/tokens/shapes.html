@@ -10,21 +10,22 @@
       class="layout showcase-tokens"
       open>
       <summary class="showcase-tokens-title">Shapes</summary>
-      {{ $sequenceCorners := "none xs s m l xl full" }} 
+      {{ $sequenceCorners := "none xs s m l li xl xli xxl full" }} 
       {{ $sequenceMods := "top bottom start end" }} 
       {{ $shapes := split $sequenceCorners " " }} 
       {{ $mods := split $sequenceMods " " }}
       <div id="shapes-container">
         {{ range $shapes }}
+          {{ $shape := . }}
           <label>
-            {{ upper . }}
+            {{ upper $shape }}
           </label>
-          <div class="shape-{{ . }}">
-            {{ . }}
+          <div class="shape-{{ $shape }}">
+            {{ $shape }}
           </div>
-          {{ if and (ne . "none") (ne . "full")}} 
+          {{ if and (ne $shape "none") (ne $shape "full")}} 
             {{ range $mods }}
-              <div class="shape-{{ . }}-{{ . }}">
+              <div class="shape-{{ $shape }}-{{ . }}">
                 {{ . }}
               </div>
             {{ end }}
