@@ -36,17 +36,36 @@
     <details
       class="layout showcase-tokens"
       open>
-      <summary class="showcase-tokens-title">Typescale</summary>
+      <summary class="showcase-tokens-title">Type scale</summary>
       <section class="typescale-container">
         {{ $typescaleTypes := slice "display" "headline" "title" "body" "label" }} 
         {{ $typescaleSizes := slice "large" "medium" "small" }} 
         {{ $typescaleClasses := slice "display" "headline" "title" "body" "label" }} 
-        {{ $typescaleSizesClasses := slice "large" "medium" "small" }} 
         {{ range $k, $v := $typescaleTypes }}
           <div class="typescale-{{ . }}s">
             {{ range $i, $j := $typescaleSizes }}
               <div class="{{ index $typescaleClasses $k }}-{{ . }}">
                 {{ title $v }} {{ title . }}
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+      </section>
+    </details>
+
+    <details
+      class="layout showcase-tokens"
+      open>
+      <summary class="showcase-tokens-title">Type scale Emphasized</summary>
+      <section class="typescale-container">
+        {{ $typescaleTypes := slice "display" "headline" "title" "body" "label" }} 
+        {{ $typescaleSizes := slice "large" "medium" "small" }} 
+        {{ $typescaleClasses := slice "display" "headline" "title" "body" "label" }} 
+        {{ range $k, $v := $typescaleTypes }}
+          <div class="typescale-{{ . }}s">
+            {{ range $i, $j := $typescaleSizes }}
+              <div class="{{ index $typescaleClasses $k }}-{{ . }} emphasized">
+                Emphasized {{ title $v }} {{ title . }}
               </div>
             {{ end }}
           </div>
