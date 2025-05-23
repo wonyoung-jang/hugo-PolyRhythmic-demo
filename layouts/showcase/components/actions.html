@@ -62,29 +62,48 @@
     {{/*  FABs  */}}
     <div class="showcase-components-header">Floating action buttons (FABs)</div>
     <div class="layout showcase-components">
-      {{ $containerClasses := slice "surface-container-high" "primary-container" "secondary-container" "tertiary-container" }}
+      {{ $containerClasses := slice 
+        "surface-container-high" 
+        "primary-container" "secondary-container" "tertiary-container" 
+        "primary" "secondary" "tertiary"
+      }}
       {{ $fabTypes := slice
         (dict 
-          "title" "Small FAB" 
-          "size" "small" 
-          "icon" "add")
-        (dict 
-          "title" "FAB"
+          "title" "FAB - Baseline"
           "size" "regular"
           "icon" "add")
+        (dict
+          "title" "FAB - Medium"
+          "size" "medium"
+          "icon" "add")
         (dict 
-          "title" "Large FAB" 
+          "title" "FAB - Large" 
           "size" "large" 
           "icon" "add")
         (dict 
-          "title" "Extended FAB - no icon" 
-          "size" "extended"
-          "label" "Extended")
-        (dict 
-          "title" "Extended FAB - with icon" 
-          "size" "extended"
+          "title" "Extended FAB - Small" 
+          "type" "extended"
+          "size" "small"
           "icon" "add" 
-          "label" "Extended") }}
+          "label" "Extended") 
+        (dict 
+          "title" "Extended FAB - Medium" 
+          "type" "extended"
+          "size" "medium"
+          "icon" "add" 
+          "label" "Extended") 
+        (dict 
+          "title" "Extended FAB - Large" 
+          "type" "extended"
+          "size" "large"
+          "icon" "add" 
+          "label" "Extended") 
+        (dict 
+          "title" "Extended FAB - no icon (deprecated)" 
+          "type" "extended"
+          "size" "small"
+          "label" "Extended")
+      }}
 
       {{ range $fabType := $fabTypes }}
         <div class="sub-showcase-components-header">{{ $fabType.title }}</div>
