@@ -9,6 +9,9 @@ dateFormat: January 2, 2006
 debug: false
 description: "Demo site for PolyRhythmic theme"
 
+features:
+  headerSearch: true
+
 fuseOpts:
   isCaseSensitive: false
   includeScore: true

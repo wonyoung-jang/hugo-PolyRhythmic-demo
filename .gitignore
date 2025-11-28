@@ -1,0 +1,18 @@
+# Hugo default output directory
+/public
+
+# Hugo cache
+/resources/_gen
+
+# Hugo build lock
+.hugo_build.lock
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated files
+Thumbs.db
+
+# Other
+..playground/

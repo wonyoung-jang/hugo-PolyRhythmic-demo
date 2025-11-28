@@ -120,7 +120,296 @@
     <div class="showcase-components-header">Icon buttons</div>
     <div class="layout showcase-components">
       {{ $buttonTypes := slice "text" "filled" "tonal" "outlined" }}
+
+      {{/*  Icon button  - rounded */}}
+      <div class="sub-showcase-components-header">Icon button</div>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      {{/*  Icon button  - rounded - narrow */}}
+      <div class="sub-showcase-components-header">Icon button</div>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      {{/*  Icon button  - rounded - wide */}}
+      <div class="sub-showcase-components-header">Icon button</div>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
       
+      {{/*  Icon button  - square */}}
+      <div class="sub-showcase-components-header">Icon button</div>  
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "shape" "square"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "shape" "square"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "shape" "square"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "shape" "square"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "shape" "square"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      {{/*  Icon button  - square - narrow */}}
+      <div class="sub-showcase-components-header">Icon button</div>  
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "shape" "square"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "shape" "square"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "shape" "square"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "shape" "square"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "shape" "square"
+            "width" "narrow"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      {{/*  Icon button  - square - wide */}}
+      <div class="sub-showcase-components-header">Icon button</div>  
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xsmall"
+            "shape" "square"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "small"
+            "shape" "square"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "medium"
+            "shape" "square"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "large"
+            "shape" "square"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+      <section>
+        {{ range $buttonTypes }}
+          {{ partial "components/actions/button-icon.html" (dict
+            "type" .
+            "size" "xlarge"
+            "shape" "square"
+            "width" "wide"
+            "icon" "settings") }}
+        {{ end }}
+      </section>
+
       {{/*  Icon button  */}}
       <div class="sub-showcase-components-header">Icon button</div>
       <section>

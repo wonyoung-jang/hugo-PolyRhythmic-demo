@@ -29,7 +29,7 @@ title: PolyRhythmic
 # - taxonomy
 # - term
 # enableEmoji: false
-enableGitInfo: true
+enableGitInfo: false
 # enableMissingTranslationPlaceholders: false
 # hasCJKLanguage: false
 # newContentEditor: (string)
